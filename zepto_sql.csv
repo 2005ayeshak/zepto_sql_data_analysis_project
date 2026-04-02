@@ -1,0 +1,1001 @@
+sku_id,category,name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
+1,"Fruits & Vegetables",Onion,25.00,16.00,3,21.00,1000,0,1
+2,"Fruits & Vegetables","Tomato Hybrid",42.00,16.00,3,35.00,1000,0,1
+3,"Fruits & Vegetables","Tender Coconut",51.00,15.00,3,43.00,58,0,1
+4,"Fruits & Vegetables","Coriander Leaves",20.00,15.00,3,17.00,100,0,100
+5,"Fruits & Vegetables","Ladies Finger ",14.00,14.00,3,12.00,250,0,250
+6,"Fruits & Vegetables",Potato,35.00,17.00,3,29.00,1000,0,1
+7,"Fruits & Vegetables",Lemon,75.00,16.00,3,63.00,200,0,200
+8,"Fruits & Vegetables","Watermelon ",58.00,15.00,3,49.00,58,0,1
+9,"Fruits & Vegetables","Capsicum Green ",23.00,17.00,3,19.00,250,0,250
+10,"Fruits & Vegetables","Chilli Green ",19.00,15.00,3,16.00,100,0,100
+11,"Fruits & Vegetables","Banana Robusta",29.00,17.00,3,24.00,348,0,6
+12,"Fruits & Vegetables","Garlic Indian ",11.00,18.00,3,9.00,100,0,100
+13,"Fruits & Vegetables",Cauliflower,26.00,15.00,3,22.00,58,0,1
+14,"Fruits & Vegetables",Ginger,14.00,14.00,3,12.00,200,0,200
+15,"Fruits & Vegetables",Spinach,19.00,15.00,3,16.00,250,0,250
+16,"Fruits & Vegetables",Muskmelon,42.00,16.00,3,35.00,58,0,1
+17,"Fruits & Vegetables","Cabbage ",15.00,13.00,3,13.00,58,0,1
+18,"Fruits & Vegetables",Methi,30.00,16.00,3,25.00,250,0,250
+19,"Fruits & Vegetables",Broccoli,36.00,16.00,3,30.00,500,0,500
+20,"Fruits & Vegetables",Sapota,30.00,16.00,3,25.00,348,0,6
+21,"Fruits & Vegetables",Onion,68.00,16.00,3,57.00,3000,0,3
+22,"Fruits & Vegetables",Potato,100.00,16.00,3,84.00,3000,0,3
+23,"Fruits & Vegetables","Orange Nagpur",82.00,15.00,3,69.00,232,0,4
+24,"Fruits & Vegetables","Mint Leaves ",11.00,18.00,3,9.00,100,0,100
+25,"Fruits & Vegetables","Beans French",33.00,15.00,3,28.00,250,0,250
+26,"Fruits & Vegetables","Bottle Gourd ",26.00,15.00,3,22.00,58,0,1
+27,"Fruits & Vegetables","Banana Elaichi ",58.00,15.00,3,49.00,348,0,6
+28,"Fruits & Vegetables","Coconut Big",36.00,16.00,3,30.00,58,0,1
+29,"Fruits & Vegetables","Curry Leaves",13.00,15.00,3,11.00,50,0,50
+30,"Fruits & Vegetables","Brinjal Bharta",19.00,15.00,3,16.00,58,0,1
+31,"Fruits & Vegetables","Lettuce Iceberg",25.00,16.00,3,21.00,250,0,250
+32,"Fruits & Vegetables",Papaya,54.00,16.00,3,45.00,58,0,1
+33,"Fruits & Vegetables","Apple Shimla",142.00,16.00,3,119.00,232,0,4
+34,"Fruits & Vegetables","Bitter Gourd",18.00,16.00,3,15.00,250,0,250
+35,"Fruits & Vegetables","Brinjal Small",18.00,16.00,3,15.00,250,0,250
+36,"Fruits & Vegetables","Sweet Corn",36.00,16.00,3,30.00,116,0,2
+37,"Fruits & Vegetables","Spring Onion ",18.00,16.00,3,15.00,250,0,250
+38,"Fruits & Vegetables","Bell Peppers Red & Yellow ",118.00,16.00,3,99.00,116,0,2
+39,"Fruits & Vegetables","Pomegranate ",106.00,16.00,3,89.00,116,0,2
+40,"Fruits & Vegetables","Sweet Lime",30.00,16.00,3,25.00,116,0,2
+41,"Fruits & Vegetables","Baby Potato",19.00,15.00,3,16.00,500,0,500
+42,"Fruits & Vegetables",Coccinia,32.00,15.00,3,27.00,250,0,250
+43,"Fruits & Vegetables",Guava,54.00,16.00,3,45.00,232,0,4
+44,"Fruits & Vegetables","Apple Washington",177.00,15.00,3,149.00,232,0,4
+45,"Fruits & Vegetables",Amla,32.00,15.00,3,27.00,250,0,250
+46,"Fruits & Vegetables","Beans Cluster",30.00,16.00,3,25.00,250,0,250
+47,"Fruits & Vegetables","Apple Royal Gala",189.00,15.00,3,159.00,232,0,4
+48,"Fruits & Vegetables","Chilli Bhaji",30.00,16.00,3,25.00,250,0,250
+49,"Fruits & Vegetables","Lettuce Green",23.00,17.00,3,19.00,100,0,100
+50,"Fruits & Vegetables","Baby Corn Peeled",35.00,17.00,3,29.00,250,0,250
+51,"Fruits & Vegetables","Mixed Sprouts",35.00,17.00,3,29.00,200,0,200
+52,"Fruits & Vegetables","Zucchini Green",35.00,17.00,3,29.00,250,0,250
+53,"Fruits & Vegetables","Beans Broad",42.00,16.00,3,35.00,250,0,250
+54,"Fruits & Vegetables","Raw Banana",20.00,15.00,6,17.00,500,0,500
+55,"Fruits & Vegetables","Colocasia ",29.00,17.00,6,24.00,500,0,500
+56,"Fruits & Vegetables","Tomato Cherry ",35.00,17.00,3,29.00,200,0,200
+57,"Fruits & Vegetables","Sweet Potato ",38.00,15.00,3,32.00,500,0,500
+58,"Fruits & Vegetables","Pineapple Slice",89.00,15.00,3,75.00,200,0,200
+59,"Fruits & Vegetables",Orange,54.00,16.00,3,45.00,116,0,2
+60,"Fruits & Vegetables","Dragon Fruit Imported",70.00,15.00,3,59.00,58,0,1
+61,"Fruits & Vegetables","Zucchini Yellow",42.00,16.00,3,35.00,250,0,500
+62,"Fruits & Vegetables","Apple Kinnaur",142.00,16.00,6,119.00,232,0,4
+63,"Fruits & Vegetables",Pineapple,94.00,15.00,3,79.00,58,0,1
+64,"Fruits & Vegetables",Basil,20.00,15.00,3,17.00,100,0,100
+65,"Fruits & Vegetables",Parsley,17.00,17.00,3,14.00,100,0,100
+66,"Fruits & Vegetables","Ridge Gourd",30.00,16.00,3,25.00,500,0,500
+67,"Fruits & Vegetables","Papaya Cut",46.00,15.00,3,39.00,200,0,200
+68,"Fruits & Vegetables","Pomegranate Peeled",58.00,15.00,2,49.00,100,0,100
+69,"Fruits & Vegetables","Pear Green Imported",82.00,15.00,3,69.00,116,0,2
+70,"Fruits & Vegetables","Guava Thai",70.00,15.00,3,59.00,116,0,2
+71,"Fruits & Vegetables","Lettuce Red",20.00,15.00,3,17.00,100,0,100
+72,"Fruits & Vegetables","Mango Raw",60.00,16.00,3,50.00,500,0,500
+73,"Fruits & Vegetables","Biryani /Pulav Mix",58.00,15.00,3,49.00,250,0,250
+74,"Fruits & Vegetables","Banana Nendran",54.00,16.00,6,45.00,500,0,500
+75,"Fruits & Vegetables","Pumpkin Cut",30.00,16.00,3,25.00,200,0,200
+76,"Fruits & Vegetables","Banana Red",54.00,16.00,6,45.00,500,0,500
+77,"Fruits & Vegetables","Radish White",23.00,17.00,6,19.00,500,0,500
+78,"Fruits & Vegetables","Avocado Indian Premium",177.00,15.00,3,149.00,58,0,1
+79,"Fruits & Vegetables","Banana Leaf",12.00,16.00,2,10.00,58,0,1
+80,"Fruits & Vegetables","Sponge Gourd",25.00,16.00,2,21.00,300,0,300
+81,"Fruits & Vegetables","Zama Organics Carrot",20.00,15.00,3,17.00,250,0,250
+82,"Fruits & Vegetables","Safal Frozen - Mixed Vegetables",110.00,4.00,2,105.00,1000,0,1
+83,"Fruits & Vegetables","Zama Organics Sweet Potato",37.00,16.00,3,31.00,250,0,250
+84,"Fruits & Vegetables",Beetroot,16.00,18.00,3,13.00,500,0,500
+85,"Fruits & Vegetables",Capsicum,26.00,19.00,3,21.00,500,0,500
+86,"Fruits & Vegetables",Carrot,19.00,21.00,3,15.00,500,0,500
+87,"Fruits & Vegetables",Garlic,17.00,23.00,3,13.00,200,0,200
+88,"Fruits & Vegetables",Carrot,13.00,15.00,0,11.00,250,1,200
+89,"Fruits & Vegetables",Beetroot,11.00,18.00,0,9.00,250,1,250
+90,"Fruits & Vegetables","Moong Sprouts",35.00,17.00,0,29.00,200,1,200
+91,"Fruits & Vegetables","Safal Frozen Mixed Vegetables",60.00,5.00,0,57.00,500,1,500
+92,"Fruits & Vegetables","Safal Frozen Corn",41.00,4.00,0,39.00,200,1,200
+93,"Fruits & Vegetables","Safal Frozen - Sweet Corn",160.00,5.00,0,152.00,1000,1,1
+94,"Cooking Essentials","Maggi 2 Minute Masala Noodles",12.00,0.00,6,12.00,70,0,70
+95,"Cooking Essentials","iD Idli & Dosa Batter ",80.00,15.00,6,68.00,1000,0,1
+96,"Cooking Essentials","Tata Salt",24.00,0.00,6,24.00,1000,0,1
+97,"Cooking Essentials","Arden Eggs White",97.00,0.00,4,97.00,696,0,12
+98,"Cooking Essentials","Arden Eggs White",65.00,15.00,4,55.00,348,0,6
+99,"Cooking Essentials","Fortune Sunlite Refined Sunflower (Pouch)",230.00,4.00,6,219.00,1000,0,1
+100,"Cooking Essentials","Aashirvaad Superior MP Atta",250.00,2.00,6,245.00,5000,0,5
+101,"Cooking Essentials","Amul Pure Ghee (Pouch)",255.00,2.00,6,249.00,500,0,500
+102,"Cooking Essentials","Arden Eggs Brown",85.00,7.00,4,79.00,348,0,6
+103,"Cooking Essentials","Tata Salt Lite",40.00,10.00,6,36.00,1000,0,1
+104,"Cooking Essentials","Saffola Gold Oil (Pouch)",215.00,0.00,6,215.00,1000,0,1
+105,"Cooking Essentials","Fortune Sunlite Refined Sunflower (Jar)",925.00,0.00,6,925.00,5000,0,5
+106,"Cooking Essentials","Fortune Rice Bran (Pouch)",225.00,11.00,6,199.00,1000,0,1
+107,"Cooking Essentials","Saffola Active Oil",210.00,0.00,6,210.00,1000,0,1
+108,"Cooking Essentials","Amul Pure Ghee (Pouch)",505.00,1.00,2,499.00,1000,0,1
+109,"Cooking Essentials","Aashirvaad Atta",460.00,13.00,6,399.00,10000,0,10
+110,"Cooking Essentials","Popular Essentials Toor Dal (Un-Polished)",160.00,6.00,4,149.00,1000,0,1
+111,"Cooking Essentials","Amul Ghee (Tin)",520.00,2.00,6,509.00,1000,0,1
+112,"Cooking Essentials","Amul Fresh Cream",197.00,3.00,3,191.00,1000,0,1
+113,"Cooking Essentials","Popular Essentials Pure Jaggery",50.00,2.00,6,49.00,450,0,450
+114,"Cooking Essentials","Aashirvaad Multigrain Atta",64.00,3.00,2,62.00,1000,0,1
+115,"Cooking Essentials","Fortune Soyabean Oil",1005.00,0.00,6,999.00,5000,0,5
+116,"Cooking Essentials","Popular Essentials Sunflower Seeds",25.00,0.00,6,25.00,50,0,50
+117,"Cooking Essentials","Tata Sampann kabuli chana",185.00,1.00,4,183.00,1000,0,500
+118,"Cooking Essentials","Dhara Groundnut Oil (Pouch)",230.00,11.00,6,203.00,1000,0,1
+119,"Cooking Essentials","Dhara Health Refined Sun Flower Oil Jar",1200.00,18.00,6,984.00,5000,0,5
+120,"Cooking Essentials","24 Mantra Organic Jaggery Powder",80.00,15.00,6,68.00,500,0,500
+121,"Cooking Essentials","Tata Sampann High Protien Kabuli Chana",94.00,0.00,1,94.00,500,0,500
+122,"Cooking Essentials","Dhara Kachi Ghani Mustard Oil Jar",1250.00,8.00,6,1143.00,5000,0,5
+123,"Cooking Essentials","D'lecta Dairy Cream",54.00,5.00,6,51.00,200,0,200
+124,"Cooking Essentials","Ching's Secret Instant Hot Garlic Noodles",15.00,0.00,3,15.00,60,0,60
+125,"Cooking Essentials","Dabur Ginger Garlic Paste",25.00,8.00,3,23.00,100,0,100
+126,"Cooking Essentials","Ching's Secret Instant Schezwan Noodles",15.00,0.00,6,15.00,60,0,60
+127,"Cooking Essentials","Gowardhan Ghee/Tuppa Jar",315.00,1.00,6,309.00,500,0,500
+128,"Cooking Essentials","Tata Sampann Unpolished Moong Dal ",92.00,4.00,4,88.00,500,0,500
+129,"Cooking Essentials","Aashirvaad Select Atta",64.00,0.00,6,64.00,1000,0,1
+130,"Cooking Essentials","Popular Essentials Misri Dana (Diamond Sugar) ",15.00,0.00,4,15.00,100,0,100
+131,"Cooking Essentials","Gowardhan Ghee Jar",598.00,3.00,6,579.00,1000,0,1
+132,"Cooking Essentials","Top Ramen  Noodles Curry Veg Pouch",20.00,0.00,1,20.00,70,0,70
+133,"Cooking Essentials","Popular Essentials Refined Sugar",60.00,0.00,6,60.00,1000,0,1
+134,"Cooking Essentials","Fortune Kachi Ghani Mustard Oil Bottle",216.00,7.00,6,199.00,1000,0,1
+135,"Cooking Essentials","Saffola Veggie Twist Masala Oats",15.00,0.00,6,15.00,38,0,38
+136,"Cooking Essentials","Satyam Puffed Rice Kurmura (R)",23.00,0.00,6,23.00,200,0,200
+137,"Cooking Essentials","Quaker Oats",79.00,0.00,2,79.00,400,0,400
+138,"Cooking Essentials","Aashirvaad Select Sharbati Atta",315.00,10.00,6,283.00,5000,0,5
+139,"Cooking Essentials","Popular Essentials Refined Sugar",295.00,10.00,6,265.00,5000,0,5
+140,"Cooking Essentials","Gowardhan Cow Ghee Pouch",579.00,10.00,6,521.00,1000,0,1
+141,"Cooking Essentials","Dhara Nourish Refined Sunflower Oil Pouch",210.00,5.00,6,199.00,1000,0,1
+142,"Cooking Essentials","Parachute Oil ",40.00,7.00,3,37.00,100,0,100
+143,"Cooking Essentials","Popular Essentials Plain Puffed Rice (Murmura/Muri)",18.00,0.00,6,18.00,100,0,100
+144,"Cooking Essentials","Amul Mithai Mate Condensed Sweetened Milk",56.00,3.00,4,54.00,200,0,200
+145,"Cooking Essentials","Saffola Gold (Jar)",1240.00,0.00,6,1240.00,5000,0,5
+146,"Cooking Essentials","McCain New Mini Samosa with Cheese Pizza Style Filling",120.00,1.00,3,118.00,240,0,240
+147,"Cooking Essentials","Fortune Rice Bran Health Oil (Jar)",1050.00,1.00,6,1039.00,5000,0,5
+148,"Fruits & Vegetables",Onion,25.00,16.00,3,21.00,1000,0,1
+149,"Fruits & Vegetables","Tomato Hybrid",42.00,16.00,3,35.00,1000,0,1
+150,"Fruits & Vegetables","Tender Coconut",51.00,15.00,3,43.00,58,0,1
+151,"Fruits & Vegetables","Coriander Leaves",20.00,15.00,3,17.00,100,0,100
+152,"Fruits & Vegetables","Ladies Finger ",14.00,14.00,3,12.00,250,0,250
+153,"Fruits & Vegetables",Potato,35.00,17.00,3,29.00,1000,0,1
+154,"Fruits & Vegetables",Lemon,75.00,16.00,3,63.00,200,0,200
+155,"Fruits & Vegetables","Watermelon ",58.00,15.00,3,49.00,58,0,1
+156,"Fruits & Vegetables","Capsicum Green ",23.00,17.00,3,19.00,250,0,250
+157,"Fruits & Vegetables","Chilli Green ",19.00,15.00,3,16.00,100,0,100
+158,"Fruits & Vegetables","Banana Robusta",29.00,17.00,3,24.00,348,0,6
+159,"Fruits & Vegetables","Garlic Indian ",11.00,18.00,3,9.00,100,0,100
+160,"Fruits & Vegetables",Cauliflower,26.00,15.00,3,22.00,58,0,1
+161,"Fruits & Vegetables",Ginger,14.00,14.00,3,12.00,200,0,200
+162,"Fruits & Vegetables",Spinach,19.00,15.00,3,16.00,250,0,250
+163,"Fruits & Vegetables",Muskmelon,42.00,16.00,3,35.00,58,0,1
+164,"Fruits & Vegetables","Cabbage ",15.00,13.00,3,13.00,58,0,1
+165,"Fruits & Vegetables",Methi,30.00,16.00,3,25.00,250,0,250
+166,"Fruits & Vegetables",Broccoli,36.00,16.00,3,30.00,500,0,500
+167,"Fruits & Vegetables",Sapota,30.00,16.00,3,25.00,348,0,6
+168,"Fruits & Vegetables",Onion,68.00,16.00,3,57.00,3000,0,3
+169,"Fruits & Vegetables",Potato,100.00,16.00,3,84.00,3000,0,3
+170,"Fruits & Vegetables","Orange Nagpur",82.00,15.00,3,69.00,232,0,4
+171,"Fruits & Vegetables","Mint Leaves ",11.00,18.00,3,9.00,100,0,100
+172,"Fruits & Vegetables","Beans French",33.00,15.00,3,28.00,250,0,250
+173,"Fruits & Vegetables","Bottle Gourd ",26.00,15.00,3,22.00,58,0,1
+174,"Fruits & Vegetables","Banana Elaichi ",58.00,15.00,3,49.00,348,0,6
+175,"Fruits & Vegetables","Coconut Big",36.00,16.00,3,30.00,58,0,1
+176,"Fruits & Vegetables","Curry Leaves",13.00,15.00,3,11.00,50,0,50
+177,"Fruits & Vegetables","Brinjal Bharta",19.00,15.00,3,16.00,58,0,1
+178,"Fruits & Vegetables","Lettuce Iceberg",25.00,16.00,3,21.00,250,0,250
+179,"Fruits & Vegetables",Papaya,54.00,16.00,3,45.00,58,0,1
+180,"Fruits & Vegetables","Apple Shimla",142.00,16.00,3,119.00,232,0,4
+181,"Fruits & Vegetables","Bitter Gourd",18.00,16.00,3,15.00,250,0,250
+182,"Fruits & Vegetables","Brinjal Small",18.00,16.00,3,15.00,250,0,250
+183,"Fruits & Vegetables","Sweet Corn",36.00,16.00,3,30.00,116,0,2
+184,"Fruits & Vegetables","Spring Onion ",18.00,16.00,3,15.00,250,0,250
+185,"Fruits & Vegetables","Bell Peppers Red & Yellow ",118.00,16.00,3,99.00,116,0,2
+186,"Fruits & Vegetables","Pomegranate ",106.00,16.00,3,89.00,116,0,2
+187,"Fruits & Vegetables","Sweet Lime",30.00,16.00,3,25.00,116,0,2
+188,"Fruits & Vegetables","Baby Potato",19.00,15.00,3,16.00,500,0,500
+189,"Fruits & Vegetables",Coccinia,32.00,15.00,3,27.00,250,0,250
+190,"Fruits & Vegetables",Guava,54.00,16.00,3,45.00,232,0,4
+191,"Fruits & Vegetables","Apple Washington",177.00,15.00,3,149.00,232,0,4
+192,"Fruits & Vegetables",Amla,32.00,15.00,3,27.00,250,0,250
+193,"Fruits & Vegetables","Beans Cluster",30.00,16.00,3,25.00,250,0,250
+194,"Fruits & Vegetables","Apple Royal Gala",189.00,15.00,3,159.00,232,0,4
+195,"Fruits & Vegetables","Chilli Bhaji",30.00,16.00,3,25.00,250,0,250
+196,"Fruits & Vegetables","Lettuce Green",23.00,17.00,3,19.00,100,0,100
+197,"Fruits & Vegetables","Baby Corn Peeled",35.00,17.00,3,29.00,250,0,250
+198,"Fruits & Vegetables","Mixed Sprouts",35.00,17.00,3,29.00,200,0,200
+199,"Fruits & Vegetables","Zucchini Green",35.00,17.00,3,29.00,250,0,250
+200,"Fruits & Vegetables","Beans Broad",42.00,16.00,3,35.00,250,0,250
+201,"Fruits & Vegetables","Raw Banana",20.00,15.00,6,17.00,500,0,500
+202,"Fruits & Vegetables","Colocasia ",29.00,17.00,6,24.00,500,0,500
+203,"Fruits & Vegetables","Tomato Cherry ",35.00,17.00,3,29.00,200,0,200
+204,"Fruits & Vegetables","Sweet Potato ",38.00,15.00,3,32.00,500,0,500
+205,"Fruits & Vegetables","Pineapple Slice",89.00,15.00,3,75.00,200,0,200
+206,"Fruits & Vegetables",Orange,54.00,16.00,3,45.00,116,0,2
+207,"Fruits & Vegetables","Dragon Fruit Imported",70.00,15.00,3,59.00,58,0,1
+208,"Fruits & Vegetables","Zucchini Yellow",42.00,16.00,3,35.00,250,0,500
+209,"Fruits & Vegetables","Apple Kinnaur",142.00,16.00,6,119.00,232,0,4
+210,"Fruits & Vegetables",Pineapple,94.00,15.00,3,79.00,58,0,1
+211,"Fruits & Vegetables",Basil,20.00,15.00,3,17.00,100,0,100
+212,"Fruits & Vegetables",Parsley,17.00,17.00,3,14.00,100,0,100
+213,"Fruits & Vegetables","Ridge Gourd",30.00,16.00,3,25.00,500,0,500
+214,"Fruits & Vegetables","Papaya Cut",46.00,15.00,3,39.00,200,0,200
+215,"Fruits & Vegetables","Pomegranate Peeled",58.00,15.00,2,49.00,100,0,100
+216,"Fruits & Vegetables","Pear Green Imported",82.00,15.00,3,69.00,116,0,2
+217,"Fruits & Vegetables","Guava Thai",70.00,15.00,3,59.00,116,0,2
+218,"Fruits & Vegetables","Lettuce Red",20.00,15.00,3,17.00,100,0,100
+219,"Fruits & Vegetables","Mango Raw",60.00,16.00,3,50.00,500,0,500
+220,"Fruits & Vegetables","Biryani /Pulav Mix",58.00,15.00,3,49.00,250,0,250
+221,"Fruits & Vegetables","Banana Nendran",54.00,16.00,6,45.00,500,0,500
+222,"Fruits & Vegetables","Pumpkin Cut",30.00,16.00,3,25.00,200,0,200
+223,"Fruits & Vegetables","Banana Red",54.00,16.00,6,45.00,500,0,500
+224,"Fruits & Vegetables","Radish White",23.00,17.00,6,19.00,500,0,500
+225,"Fruits & Vegetables","Avocado Indian Premium",177.00,15.00,3,149.00,58,0,1
+226,"Fruits & Vegetables","Banana Leaf",12.00,16.00,2,10.00,58,0,1
+227,"Fruits & Vegetables","Sponge Gourd",25.00,16.00,2,21.00,300,0,300
+228,"Fruits & Vegetables","Zama Organics Carrot",20.00,15.00,3,17.00,250,0,250
+229,"Fruits & Vegetables","Safal Frozen - Mixed Vegetables",110.00,4.00,2,105.00,1000,0,1
+230,"Fruits & Vegetables","Zama Organics Sweet Potato",37.00,16.00,3,31.00,250,0,250
+231,"Fruits & Vegetables",Beetroot,16.00,18.00,3,13.00,500,0,500
+232,"Fruits & Vegetables",Capsicum,26.00,19.00,3,21.00,500,0,500
+233,"Fruits & Vegetables",Carrot,19.00,21.00,3,15.00,500,0,500
+234,"Fruits & Vegetables",Garlic,17.00,23.00,3,13.00,200,0,200
+235,"Fruits & Vegetables",Carrot,13.00,15.00,0,11.00,250,1,200
+236,"Fruits & Vegetables",Beetroot,11.00,18.00,0,9.00,250,1,250
+237,"Fruits & Vegetables","Moong Sprouts",35.00,17.00,0,29.00,200,1,200
+238,"Fruits & Vegetables","Safal Frozen Mixed Vegetables",60.00,5.00,0,57.00,500,1,500
+239,"Fruits & Vegetables","Safal Frozen Corn",41.00,4.00,0,39.00,200,1,200
+240,"Fruits & Vegetables","Safal Frozen - Sweet Corn",160.00,5.00,0,152.00,1000,1,1
+241,"Cooking Essentials","Maggi 2 Minute Masala Noodles",12.00,0.00,6,12.00,70,0,70
+242,"Cooking Essentials","iD Idli & Dosa Batter ",80.00,15.00,6,68.00,1000,0,1
+243,"Cooking Essentials","Tata Salt",24.00,0.00,6,24.00,1000,0,1
+244,"Cooking Essentials","Arden Eggs White",97.00,0.00,4,97.00,696,0,12
+245,"Cooking Essentials","Arden Eggs White",65.00,15.00,4,55.00,348,0,6
+246,"Cooking Essentials","Fortune Sunlite Refined Sunflower (Pouch)",230.00,4.00,6,219.00,1000,0,1
+247,"Cooking Essentials","Aashirvaad Superior MP Atta",250.00,2.00,6,245.00,5000,0,5
+248,"Cooking Essentials","Amul Pure Ghee (Pouch)",255.00,2.00,6,249.00,500,0,500
+249,"Cooking Essentials","Arden Eggs Brown",85.00,7.00,4,79.00,348,0,6
+250,"Cooking Essentials","Tata Salt Lite",40.00,10.00,6,36.00,1000,0,1
+251,"Cooking Essentials","Saffola Gold Oil (Pouch)",215.00,0.00,6,215.00,1000,0,1
+252,"Cooking Essentials","Fortune Sunlite Refined Sunflower (Jar)",925.00,0.00,6,925.00,5000,0,5
+253,"Cooking Essentials","Fortune Rice Bran (Pouch)",225.00,11.00,6,199.00,1000,0,1
+254,"Cooking Essentials","Saffola Active Oil",210.00,0.00,6,210.00,1000,0,1
+255,"Cooking Essentials","Amul Pure Ghee (Pouch)",505.00,1.00,2,499.00,1000,0,1
+256,"Cooking Essentials","Aashirvaad Atta",460.00,13.00,6,399.00,10000,0,10
+257,"Cooking Essentials","Popular Essentials Toor Dal (Un-Polished)",160.00,6.00,4,149.00,1000,0,1
+258,"Cooking Essentials","Amul Ghee (Tin)",520.00,2.00,6,509.00,1000,0,1
+259,"Cooking Essentials","Amul Fresh Cream",197.00,3.00,3,191.00,1000,0,1
+260,"Cooking Essentials","Popular Essentials Pure Jaggery",50.00,2.00,6,49.00,450,0,450
+261,"Cooking Essentials","Aashirvaad Multigrain Atta",64.00,3.00,2,62.00,1000,0,1
+262,"Cooking Essentials","Fortune Soyabean Oil",1005.00,0.00,6,999.00,5000,0,5
+263,"Cooking Essentials","Popular Essentials Sunflower Seeds",25.00,0.00,6,25.00,50,0,50
+264,"Cooking Essentials","Tata Sampann kabuli chana",185.00,1.00,4,183.00,1000,0,500
+265,"Cooking Essentials","Dhara Groundnut Oil (Pouch)",230.00,11.00,6,203.00,1000,0,1
+266,"Cooking Essentials","Dhara Health Refined Sun Flower Oil Jar",1200.00,18.00,6,984.00,5000,0,5
+267,"Cooking Essentials","24 Mantra Organic Jaggery Powder",80.00,15.00,6,68.00,500,0,500
+268,"Cooking Essentials","Tata Sampann High Protien Kabuli Chana",94.00,0.00,1,94.00,500,0,500
+269,"Cooking Essentials","Dhara Kachi Ghani Mustard Oil Jar",1250.00,8.00,6,1143.00,5000,0,5
+270,"Cooking Essentials","D'lecta Dairy Cream",54.00,5.00,6,51.00,200,0,200
+271,"Cooking Essentials","Ching's Secret Instant Hot Garlic Noodles",15.00,0.00,3,15.00,60,0,60
+272,"Cooking Essentials","Dabur Ginger Garlic Paste",25.00,8.00,3,23.00,100,0,100
+273,"Cooking Essentials","Ching's Secret Instant Schezwan Noodles",15.00,0.00,6,15.00,60,0,60
+274,"Cooking Essentials","Gowardhan Ghee/Tuppa Jar",315.00,1.00,6,309.00,500,0,500
+275,"Cooking Essentials","Tata Sampann Unpolished Moong Dal ",92.00,4.00,4,88.00,500,0,500
+276,"Cooking Essentials","Aashirvaad Select Atta",64.00,0.00,6,64.00,1000,0,1
+277,"Cooking Essentials","Popular Essentials Misri Dana (Diamond Sugar) ",15.00,0.00,4,15.00,100,0,100
+278,"Cooking Essentials","Gowardhan Ghee Jar",598.00,3.00,6,579.00,1000,0,1
+279,"Cooking Essentials","Top Ramen  Noodles Curry Veg Pouch",20.00,0.00,1,20.00,70,0,70
+280,"Cooking Essentials","Popular Essentials Refined Sugar",60.00,0.00,6,60.00,1000,0,1
+281,"Cooking Essentials","Fortune Kachi Ghani Mustard Oil Bottle",216.00,7.00,6,199.00,1000,0,1
+282,"Cooking Essentials","Saffola Veggie Twist Masala Oats",15.00,0.00,6,15.00,38,0,38
+283,"Cooking Essentials","Satyam Puffed Rice Kurmura (R)",23.00,0.00,6,23.00,200,0,200
+284,"Cooking Essentials","Quaker Oats",79.00,0.00,2,79.00,400,0,400
+285,"Cooking Essentials","Aashirvaad Select Sharbati Atta",315.00,10.00,6,283.00,5000,0,5
+286,"Cooking Essentials","Popular Essentials Refined Sugar",295.00,10.00,6,265.00,5000,0,5
+287,"Cooking Essentials","Gowardhan Cow Ghee Pouch",579.00,10.00,6,521.00,1000,0,1
+288,"Cooking Essentials","Dhara Nourish Refined Sunflower Oil Pouch",210.00,5.00,6,199.00,1000,0,1
+289,"Cooking Essentials","Parachute Oil ",40.00,7.00,3,37.00,100,0,100
+290,"Cooking Essentials","Popular Essentials Plain Puffed Rice (Murmura/Muri)",18.00,0.00,6,18.00,100,0,100
+291,"Cooking Essentials","Amul Mithai Mate Condensed Sweetened Milk",56.00,3.00,4,54.00,200,0,200
+292,"Cooking Essentials","Saffola Gold (Jar)",1240.00,0.00,6,1240.00,5000,0,5
+293,"Cooking Essentials","McCain New Mini Samosa with Cheese Pizza Style Filling",120.00,1.00,3,118.00,240,0,240
+294,"Cooking Essentials","Fortune Rice Bran Health Oil (Jar)",1050.00,1.00,6,1039.00,5000,0,5
+295,"Cooking Essentials","Arden Desi Eggs",110.00,13.00,4,95.00,348,0,6
+296,"Cooking Essentials","Fortune Rozana Basmati Rice",585.00,21.00,6,462.00,5000,0,5
+297,"Cooking Essentials","Fortune Biriyani Special Basmati Rice",175.00,0.00,5,175.00,1000,0,1
+298,"Cooking Essentials","Everest Garam Masala",78.00,7.00,5,72.00,100,0,100
+299,"Cooking Essentials","Popular Essentials Pumpkin Seeds",90.00,16.00,6,75.00,100,0,100
+300,"Cooking Essentials","Fortune Soya Health Refined Soybean Oil",210.00,1.00,2,206.00,1000,0,1
+301,"Cooking Essentials","Gowardhan Pure Ghee Pouch",295.00,4.00,6,281.00,500,0,500
+302,"Cooking Essentials","Popular Essentials Jeera/Cumin Seeds",40.00,5.00,3,38.00,100,0,100
+303,"Cooking Essentials","Weikfield Baking Soda",30.00,3.00,6,29.00,100,0,100
+304,"Cooking Essentials","Everest Pav Bhaji Masala",37.00,10.00,4,33.00,50,0,50
+305,"Cooking Essentials","Tata Sampann Unpolished Chana Dal",95.00,6.00,2,89.00,1000,0,500
+306,"Cooking Essentials","Amul Mithai Mate EOE Tin",112.00,2.00,6,109.00,400,0,400
+307,"Cooking Essentials","Pillsbury Chakki Fresh Atta",450.00,16.00,6,375.00,10000,0,10
+308,"Cooking Essentials","Everest Chicken Masala",39.00,2.00,1,38.00,50,0,50
+309,"Cooking Essentials","Dhara Life Refined Ricebran Oil (Pouch)",205.00,7.00,6,190.00,1000,0,1
+310,"Cooking Essentials","Borges Extra Virgin Olive Oil",400.00,25.00,1,299.00,250,0,250
+311,"Cooking Essentials","Everest Shahi Biryani Masala",70.00,14.00,6,60.00,50,0,50
+312,"Cooking Essentials","Popular Essentials Californian Almond",350.00,28.00,6,251.00,250,0,250
+313,"Cooking Essentials","Popular Essentials Ajwain Whole",25.00,0.00,4,25.00,50,0,50
+314,"Cooking Essentials","Everest Tikhalal Chilli Powder",235.00,9.00,6,212.00,500,0,500
+315,"Cooking Essentials","Popular Essentials Kabuli Chana Regular",85.00,9.00,6,77.00,500,0,500
+316,"Cooking Essentials","Pillsbury Chakki Fresh Atta",52.00,0.00,4,52.00,1000,0,1
+317,"Cooking Essentials","Popular Essentials Saunf/Fennel Seeds",45.00,2.00,6,44.00,100,0,100
+318,"Cooking Essentials","Popular Essentials Bansi Sooji",35.00,2.00,3,34.00,500,0,500
+319,"Cooking Essentials","Happilo Premium International Queen Kalmi Dates",245.00,29.00,6,172.00,200,0,200
+320,"Cooking Essentials","Tata Sampann Unpolished Urad Whole",101.00,6.00,4,94.00,500,0,500
+321,"Cooking Essentials","Popular Essentials Cashew Split",325.00,12.00,6,283.00,250,0,250
+322,"Cooking Essentials","Popular Essentials Chana Dal (Un-Polished)",60.00,10.00,6,54.00,500,0,500
+323,"Cooking Essentials","Tata Sampann Unpolished Rajma (Chitra)",134.00,6.00,6,125.00,500,0,500
+324,"Cooking Essentials","Everest Garam Masala",42.00,2.00,2,41.00,50,0,50
+325,"Cooking Essentials","Everest Kitchen King Masala",70.00,14.00,2,60.00,100,0,100
+326,"Cooking Essentials","24 Mantra Organic Cumin",70.00,7.00,2,65.00,100,0,100
+327,"Cooking Essentials","Nestle Milkmaid",132.00,3.00,6,128.00,400,0,400
+328,"Cooking Essentials","Popular Essentials Sona Masouri Steam Rice",65.00,9.00,6,59.00,1000,0,1
+329,"Cooking Essentials","24 Mantra Organic Tur Dal",260.00,20.00,6,208.00,1000,0,1
+330,"Cooking Essentials","Gits Gulab Jamun Instant Dessert Mix",99.00,10.00,6,89.00,200,0,200
+331,"Cooking Essentials","Popular Essentials Black Masoor Whole (Un-Polished)",65.00,10.00,3,58.00,500,0,500
+332,"Cooking Essentials","24 Mantra Organic Peanuts",135.00,7.00,1,125.00,500,0,500
+333,"Cooking Essentials","Everest Hingraj Powder",90.00,10.00,2,81.00,50,0,50
+334,"Cooking Essentials","Everest Black Pepper Powder",135.00,14.00,6,115.00,100,0,100
+335,"Cooking Essentials","Tata Sampann Masoor Dal Stand",150.00,10.00,4,134.00,1000,0,1
+336,"Cooking Essentials","24 Mantra Organic Besan",95.00,7.00,5,88.00,500,0,500
+337,"Cooking Essentials","Quaker Oats",199.00,7.00,6,184.00,1000,0,1
+338,"Cooking Essentials","Saffola Gold Refined Cooking Oil (Jar)",485.00,7.00,6,449.00,2000,0,2
+339,"Cooking Essentials","Nestle Everyday Dairy Whitener",210.00,0.00,4,210.00,400,0,400
+340,"Cooking Essentials","24 Mantra Organic Red Poha",75.00,8.00,1,69.00,500,0,500
+341,"Cooking Essentials","Everest Powder - Tea Masala",98.00,9.00,5,89.00,100,0,100
+342,"Cooking Essentials","Tata Sampann Urad Dal Split",94.00,4.00,6,90.00,500,0,500
+343,"Cooking Essentials","Popular Essentials Idli Sooji ",30.00,6.00,6,28.00,500,0,500
+344,"Cooking Essentials","Popular Essentials Dessicated Coconut",95.00,9.00,6,86.00,200,0,200
+345,"Cooking Essentials","Sunfeast Yippee! Mood Masala Noodles",60.00,28.00,3,43.00,260,0,260
+346,"Cooking Essentials","Chef's Basket Durum Wheat Elbow Pasta",160.00,50.00,6,80.00,500,0,500
+347,"Cooking Essentials","MTR Breakfast Khatta Meetha Poha Mix",25.00,20.00,6,20.00,60,0,60
+348,"Cooking Essentials","Satyam Khobra",113.00,10.00,5,101.00,200,0,200
+349,"Cooking Essentials","Betty Crocker Complete Pancake Mix Original",110.00,4.00,6,105.00,250,0,500
+350,"Cooking Essentials","Borges Durum Wheat Fusilli Pasta ",250.00,0.00,3,250.00,500,0,500
+351,"Cooking Essentials","24 Mantra Organic Green Moong Dal - Split",135.00,0.00,2,135.00,500,0,500
+352,"Cooking Essentials","Weikfield Vanilla Flavoured Custard Powder",37.00,0.00,6,37.00,100,0,100
+353,"Cooking Essentials","Tata Sampann Moong Dal Split",180.00,1.00,5,178.00,1000,0,200
+354,"Cooking Essentials","Tata Sampann Kala Chana",64.00,0.00,5,64.00,500,0,500
+355,"Cooking Essentials","Saffola Soya Chunks Mealmaker",50.00,0.00,2,50.00,200,0,200
+356,"Cooking Essentials","24 Mantra Bura Sugar (Demerara)",80.00,10.00,6,72.00,500,0,500
+357,"Cooking Essentials","Popular Essentials Green Cardamom (Elaichi)",200.00,1.00,6,198.00,50,0,50
+358,"Cooking Essentials","Hershey's Syrup Delicious Strawberry",95.00,0.00,1,95.00,200,0,200
+359,"Cooking Essentials","Popular Essentials Anjeer",190.00,11.00,4,169.00,100,0,100
+360,"Cooking Essentials","Popular Essentials Mustard Seeds Rai Small",20.00,0.00,2,20.00,100,0,100
+361,"Cooking Essentials","Weikfield Baking Powder",33.00,3.00,6,32.00,100,0,100
+362,"Cooking Essentials","Dabur Honey Squeezy",185.00,9.00,6,167.00,225,0,225
+363,"Cooking Essentials","Tata Sampann High Protein Kali Urad",91.00,14.00,6,78.00,500,0,500
+364,"Cooking Essentials","Everest Kitchen King Masala",37.00,2.00,6,36.00,50,0,50
+365,"Cooking Essentials","Chef's Basket Durum Wheat Fusilli Pasta",160.00,50.00,6,80.00,500,0,500
+366,"Cooking Essentials","TilSona Til Oil",180.00,10.00,2,162.00,500,0,500
+367,"Cooking Essentials","Top Ramen Chicken Noodles",60.00,10.00,1,54.00,280,0,280
+368,"Cooking Essentials","Everest Chaat Masala",35.00,2.00,1,34.00,50,0,50
+369,"Cooking Essentials","Keya Wonder Red Hot Chilli Flakes",89.00,10.00,2,80.00,40,0,40
+370,"Cooking Essentials","Popular Essentials White Peas (Un-Polished)",80.00,10.00,5,72.00,500,0,500
+371,"Cooking Essentials","ChingÕs Secret Chowmein Hakka Noodles Masala ",44.00,0.00,2,44.00,60,0,60
+372,"Cooking Essentials","Dhara Filtered Groundnut Oil (Jar)",1050.00,1.00,6,1035.00,5000,0,5
+373,"Cooking Essentials","Pillsbury Choco Chip Pancake Mix",99.00,5.00,6,94.00,165,0,165
+374,"Cooking Essentials","Hershey's Caramel Syrup",230.00,0.00,1,230.00,623,0,623
+375,"Cooking Essentials","Pillsbury Multi Grain Atta",60.00,6.00,3,56.00,1000,0,1
+376,"Cooking Essentials","McCain New Mini Samosa with Cheese Corn Style Filling",120.00,1.00,2,118.00,240,0,240
+377,"Cooking Essentials","Satyam Puffed Rice Kurmura (A)",43.00,0.00,6,43.00,200,0,200
+378,"Cooking Essentials","MTR 3 Min Poha",25.00,0.00,6,25.00,60,0,60
+379,"Cooking Essentials","Ching's Manchurian Instant Noodles",15.00,0.00,5,15.00,60,0,60
+380,"Cooking Essentials","Everest Pav Bhaji Masala",70.00,0.00,2,70.00,100,0,100
+381,"Cooking Essentials","Hershey's Chocolate Flavour Syrup",220.00,6.00,6,205.00,623,0,680
+382,"Cooking Essentials","Popular Essentials Dhania (Coriander Seeds)",55.00,16.00,4,46.00,200,0,200
+383,"Cooking Essentials","24 Mantra Red Chilly Whole",70.00,7.00,1,65.00,100,0,100
+384,"Cooking Essentials","Dabur Honey - World's No.1",120.00,0.00,6,120.00,250,0,250
+385,"Cooking Essentials","24 Mantra Organic Puffed Rice",40.00,2.00,6,39.00,200,0,200
+386,"Cooking Essentials","24 Mantra Organic Wheat Daliya ",48.00,2.00,2,47.00,500,0,500
+387,"Cooking Essentials","24 Mantra Organic Ragi Flour",65.00,20.00,4,52.00,500,0,500
+388,"Cooking Essentials","Popular Essentials Cinnamon Whole (Dalchini)",35.00,5.00,6,33.00,25,0,25
+389,"Cooking Essentials","Sundrop Super Lite Advanced - Sunflower Oil",215.00,0.00,4,215.00,1000,0,1
+390,"Cooking Essentials","Pillsbury Atta/Godihittu - Chakki Fresh",102.00,7.00,4,94.00,2000,0,2
+391,"Cooking Essentials","Popular Essentials Green Moong Chilka/Chilka (Un-Polished)",85.00,7.00,5,79.00,500,0,500
+392,"Cooking Essentials","Popular Essentials HMT Kolam Steam",75.00,0.00,3,75.00,1000,0,1
+393,"Cooking Essentials","Popular Essentials Black Urad Split",80.00,10.00,4,72.00,500,0,500
+394,"Cooking Essentials","Keya Oregano",109.00,10.00,5,98.00,9,0,9
+395,"Cooking Essentials","Popular Essentials Pink Rajma",100.00,10.00,6,90.00,500,0,500
+396,"Cooking Essentials","Everest Chicken Masala",74.00,2.00,6,72.00,100,0,100
+397,"Cooking Essentials","Popular Essentials HMT Kolam Steam",370.00,10.00,6,333.00,5000,0,5
+398,"Cooking Essentials","Everest Shahi Paneer Masala",42.00,4.00,5,40.00,50,0,50
+399,"Cooking Essentials","Godrej Yummiez Chicken Nuggets",325.00,9.00,1,293.00,500,0,500
+400,"Cooking Essentials","Flying Bird Vanilla Essence",35.00,2.00,6,34.00,20,0,20
+401,"Cooking Essentials","Everest Sabji Masala",30.00,3.00,6,29.00,50,0,50
+402,"Cooking Essentials","Popular Essentials Californian Almond",695.00,32.00,6,470.00,500,0,500
+403,"Cooking Essentials","Cornitos Cornitos Taco Shells - 4 Inches",110.00,20.00,6,88.00,80,0,80
+404,"Cooking Essentials","Everest Rajma Masala",33.00,3.00,5,32.00,50,0,50
+405,"Cooking Essentials","Popular Essentials White Til",40.00,5.00,1,38.00,100,0,100
+406,"Cooking Essentials","Amul Dark Compound Chocolate Slab",125.00,2.00,6,122.00,500,0,500
+407,"Cooking Essentials","Mothers Recipe Papad Chana Masala",79.00,10.00,6,71.00,200,0,200
+408,"Cooking Essentials","Ching's Schezwan Masala Instant Noodles",60.00,0.00,1,60.00,240,0,240
+409,"Cooking Essentials","Amul Milk Compound Chocolate Slab",110.00,2.00,6,107.00,500,0,500
+410,"Cooking Essentials","Eastern Chicken Masala",70.00,7.00,3,65.00,100,0,100
+411,"Cooking Essentials","Popular Essentials Methi Seeds",25.00,0.00,5,25.00,100,0,100
+412,"Cooking Essentials","Saffola Yummy Masala Noodles ",20.00,0.00,2,20.00,46,0,46
+413,"Cooking Essentials","Cadbury Hot Chocolate",175.00,5.00,6,166.00,200,0,200
+414,"Cooking Essentials","Ching's Chicken Chilli Masala",10.00,0.00,6,10.00,20,0,20
+415,"Cooking Essentials","Dabur Keora water - Authentic flavour for Biryani's and Desserts",62.00,6.00,6,58.00,250,0,250
+416,"Cooking Essentials","Popular Essentials Black Cardamom/Elaichi ",100.00,10.00,6,90.00,50,0,50
+417,"Cooking Essentials","Popular Essentials Idli Rice",60.00,10.00,4,54.00,1000,0,1
+418,"Cooking Essentials","Everest Chole Masala",33.00,3.00,1,32.00,50,0,50
+419,"Cooking Essentials","Dabur Hommade Tamarind Paste",48.00,6.00,6,45.00,200,0,200
+420,"Cooking Essentials","Popular Essentials Cooking Soda",30.00,10.00,6,27.00,200,0,200
+421,"Cooking Essentials","RRO Primio Refined Groundnut Oil Pet Bottle",255.00,6.00,2,239.00,1000,0,1
+422,"Cooking Essentials","Everest Pani Puri Masala",31.00,3.00,6,30.00,50,0,50
+423,"Cooking Essentials","Nissin Cup Noodles Tangy Tomato",50.00,10.00,2,45.00,70,0,70
+424,"Cooking Essentials","Ching's Veg Manchurian Masala",10.00,0.00,2,10.00,20,0,20
+425,"Cooking Essentials","Ceres Foods Fish Mustard Instant Liquid Masala",220.00,50.00,6,110.00,200,0,200
+426,"Cooking Essentials","Everest Garam Masala",158.00,10.00,6,142.00,200,0,200
+427,"Cooking Essentials","24 Mantra Organic Jowar Flour",70.00,7.00,6,65.00,500,0,500
+428,"Cooking Essentials","Maggi Coconut Milkpowder",100.00,0.00,6,100.00,100,0,100
+429,"Cooking Essentials","On1y Pepper Grinder",159.00,9.00,1,144.00,50,0,50
+430,"Cooking Essentials","Popular Essentials Rice Flour",60.00,0.00,3,60.00,1000,0,1
+431,"Cooking Essentials","Sunfeast Yippee! Pasta Treat - Sour Cream Onion",28.00,10.00,1,25.00,65,0,65
+432,"Cooking Essentials","24 Mantra Organic Brown Sona Masoori Rice",95.00,0.00,6,95.00,1000,0,1
+433,"Cooking Essentials","Happilo Premium Afghani Anjeer",365.00,29.00,2,256.00,200,0,200
+434,"Cooking Essentials","Popular Essentials Chiroti Sooji",35.00,2.00,6,34.00,500,0,500
+435,"Cooking Essentials","RRO Til Dil Premium Til Oil Bottle",330.00,10.00,5,294.00,1000,0,1
+436,"Cooking Essentials","Popular Essentials Red Rajma",90.00,10.00,6,81.00,500,0,500
+437,"Cooking Essentials","Cornitos Peanut - Premium Salted ",120.00,10.00,6,108.00,150,0,150
+438,"Cooking Essentials","Popular Essentials Black Pepper",100.00,10.00,5,90.00,100,0,100
+439,"Cooking Essentials","24 Mantra Organic Tur Dal - Split",130.00,7.00,6,120.00,500,0,500
+440,"Cooking Essentials","Sugarfree Gold Low Calorie Sweetner",65.00,6.00,3,61.00,110,0,100
+441,"Cooking Essentials","Ching's Secret Paneer Chilli Masala",10.00,0.00,2,10.00,20,0,20
+442,"Cooking Essentials","Dabur Honey ",220.00,7.00,3,204.00,500,0,500
+443,"Cooking Essentials","Sunfeast Yippee! Pasta Treat - Sour Cream Onion",28.00,17.00,3,23.00,65,0,65
+444,"Cooking Essentials","Everest Tea Masala",55.00,9.00,2,50.00,50,0,50
+445,"Cooking Essentials","Ching's Paneer Chilli Masala",44.00,0.00,4,44.00,60,0,60
+446,"Cooking Essentials","Sunfeast YiPPee! Magic Masala Noodles",70.00,10.00,3,63.00,405,0,405
+447,"Cooking Essentials","Everest Meat Masala Powder",74.00,9.00,3,67.00,100,0,100
+448,"Cooking Essentials","Pillsbury Atta With Multigrains Wheat Grains",295.00,16.00,6,245.00,5000,0,5
+449,"Cooking Essentials","Mother's Recipe Tamarind Paste",50.00,2.00,6,49.00,200,0,200
+450,"Cooking Essentials","Quaker Oats Breakfast Cereals - With Flavour Mix Nutritious Rich Source Of Energy",49.00,8.00,6,45.00,200,0,200
+451,"Cooking Essentials","Popular Essentials Cloves (Lavang)",75.00,17.00,6,62.00,50,0,50
+452,"Cooking Essentials","Sunfeast Yippee! Power Up Atta Noodles",96.00,15.00,6,81.00,280,0,280
+453,"Cooking Essentials","Suhana Paneer Tikka Masala Mix",40.00,5.00,6,38.00,50,0,50
+454,"Cooking Essentials","24 Mantra Turmeric Powder",35.00,2.00,6,34.00,100,0,100
+455,"Cooking Essentials","24 Mantra Super Grain Quinoa",190.00,0.00,4,190.00,500,0,500
+456,"Cooking Essentials","Everest Powder - Egg Curry Masala",40.00,2.00,6,39.00,50,0,50
+457,"Cooking Essentials","Popular Essentials Pe Shah Jeera ",60.00,15.00,6,51.00,50,0,50
+458,"Cooking Essentials","24 Mantra Organic Sattu Atta",95.00,0.00,6,95.00,500,0,500
+459,"Cooking Essentials","Smith & Jones Pasta Masala",46.00,0.00,6,46.00,54,0,54
+460,"Cooking Essentials","Weikfield Vanilla Custard Powder",142.00,9.00,3,128.00,500,0,500
+461,"Cooking Essentials","Sugarfree Natura Low Calorie Sweetner ",300.00,10.00,3,270.00,42,0,42
+462,"Cooking Essentials","Pillsbury Vanilla Custard Powder",37.00,2.00,6,36.00,100,0,100
+463,"Cooking Essentials","24 Mantra Organic Rajma",145.00,0.00,6,145.00,500,0,500
+464,"Cooking Essentials","Popular Essentials Broken Wheat/Daliya",35.00,2.00,6,34.00,500,0,500
+465,"Cooking Essentials","Zorabian Chicken Smoked Ham",205.00,5.00,1,194.00,250,0,250
+466,"Cooking Essentials","Smith & Jones Peri Peri Masala",99.00,0.00,6,99.00,75,0,75
+467,"Cooking Essentials","Saffola Veggie Twist Masala Oats",195.00,12.00,2,171.00,500,0,500
+468,"Cooking Essentials","Popular Essentials Urad Dal Split (Un-Polished)",85.00,9.00,5,77.00,500,0,500
+469,"Cooking Essentials","Weikfield Baking Powder",22.00,0.00,6,22.00,50,0,50
+470,"Cooking Essentials","Popular Essentials Bajra Whole",65.00,13.00,6,56.00,1000,0,1
+471,"Cooking Essentials","Weikfield Veg Jelly Crystals - Strawberry",45.00,2.00,6,44.00,90,0,90
+472,"Cooking Essentials","Weikfield Veg Jelly Crystals - Raspberry",45.00,2.00,6,44.00,90,0,90
+473,"Cooking Essentials","Popular Essentials Masoor Dal Split (Un-Polished)",70.00,10.00,4,63.00,500,0,500
+474,"Cooking Essentials","Popular Essentials Ajwain Whole",50.00,12.00,2,44.00,100,0,100
+475,"Cooking Essentials","Popular Essentials Pista Salted (With Shell)",470.00,21.00,5,371.00,250,0,250
+476,"Cooking Essentials","The Bake Shop Bread Crumbs",50.00,6.00,3,47.00,400,0,400
+477,"Cooking Essentials","Popular Essentials Horse Gram",40.00,10.00,4,36.00,500,0,500
+478,"Cooking Essentials","Hershey's Chocolate Syrup",95.00,0.00,4,95.00,200,0,200
+479,"Cooking Essentials","Godrej Yummiez Chilli Chicken Sausages ",160.00,10.00,3,144.00,250,0,250
+480,"Cooking Essentials","Everest Kasuri Methi",25.00,0.00,6,25.00,25,0,25
+481,"Cooking Essentials","Satyam Makhana",208.00,0.00,6,208.00,100,0,100
+482,"Cooking Essentials","Everest Tandoori Chicken Masala",39.00,2.00,5,38.00,50,0,50
+483,"Cooking Essentials","Weikfield Falooda Mix - Kesar Pista",49.00,2.00,3,48.00,200,0,200
+484,"Cooking Essentials","Weikfield Cocoa Powder",70.00,7.00,6,65.00,50,0,50
+485,"Cooking Essentials","Pantai Coconut Cream",150.00,4.00,4,143.00,400,0,400
+486,"Cooking Essentials","Popular Essentials Coriander Seeds",15.00,0.00,5,15.00,50,0,50
+487,"Cooking Essentials","Ching's Singapore Curry Instant Noodles",60.00,0.00,4,60.00,240,0,240
+488,"Cooking Essentials","Eastern Fish Masala",48.00,2.00,5,47.00,100,0,100
+489,"Cooking Essentials","Pillsbury Atta/Godihittu - Chakki Fresh",275.00,0.00,6,275.00,5000,0,5
+490,"Cooking Essentials","Oleev Smart Oil Fortified with VIT A, D, E & K (Pouch)",215.00,9.00,4,194.00,1000,0,1
+491,"Cooking Essentials","Everest Dry Ginger Powder",75.00,9.00,4,68.00,100,0,100
+492,"Cooking Essentials","Pillsbury Cooker Cake Mix - Choco",100.00,11.00,6,89.00,159,0,159
+493,"Cooking Essentials","Hersheys Chocolate Almond Syrup",200.00,0.00,2,200.00,450,0,450
+494,"Cooking Essentials","Satyam Nighties Spices  Chilli Pandi",56.00,7.00,5,52.00,100,0,100
+495,"Cooking Essentials","Popular Essentials Popular Essential Pista Salted (With Shell)",190.00,10.00,6,171.00,100,0,100
+496,"Cooking Essentials","Godrej Yummiez Chicken Punjabi Tikka ",295.00,9.00,6,266.00,360,0,360
+497,"Cooking Essentials","Popular Essentials Rozana Sona Masuri Raw Rice",350.00,10.00,5,312.00,5000,0,5
+498,"Cooking Essentials","24 Mantra Mustard Oil (Cold Pressed) ",350.00,10.00,6,312.00,1000,0,1
+499,"Cooking Essentials","24 Mantra Organic Black Pepper",170.00,7.00,6,157.00,100,0,100
+500,"Cooking Essentials","Popular Essentials Green Moong Whole",90.00,16.00,3,75.00,500,0,500
+501,"Cooking Essentials","24 Mantra Organic Masoor Dal - Split",95.00,7.00,6,88.00,500,0,500
+502,"Cooking Essentials","Praakritik Organic Natural Rock Salt",60.00,6.00,3,56.00,500,0,500
+503,"Cooking Essentials","24 Mantra Sunflower Oil (Cold Pressed) Pet Bottle",390.00,11.00,5,347.00,1000,0,1
+504,"Cooking Essentials","Ching's Secret Instant Noodles, Hot Garlic",60.00,0.00,4,60.00,240,0,240
+505,"Cooking Essentials","Saffola Everyday Peppy Tomato Masala Oats",195.00,12.00,6,171.00,500,0,500
+506,"Cooking Essentials","Dabur 100% Pure Honey - Worlds No.1",430.00,10.00,6,387.00,1000,0,1
+507,"Cooking Essentials","Popular Essentials Star Anise",70.00,10.00,5,63.00,25,0,25
+508,"Cooking Essentials","Ching's Secret Chicken 65 Masala - Chicken",10.00,0.00,5,10.00,20,0,20
+509,"Cooking Essentials","Cadbury Cocoa Powder",223.00,5.00,6,211.00,150,0,150
+510,"Cooking Essentials","Praakritik Natural Desi Gir Cow A2 Ghee",1450.00,10.00,6,1305.00,540,0,540
+511,"Cooking Essentials","Praakritik Organic Poha",120.00,6.00,5,112.00,500,0,500
+512,"Cooking Essentials","Praakritik Organic Natural Wild Forest Honey",160.00,6.00,4,150.00,200,0,200
+513,"Cooking Essentials","Popular Essentials Dry Dates (Kharak)",140.00,15.00,6,118.00,250,0,250
+514,"Cooking Essentials","Popular Essentials Kashmiri Red Rajma",95.00,6.00,4,89.00,500,0,500
+515,"Cooking Essentials","Dabur Hommade - Garlic Paste",50.00,6.00,6,47.00,200,0,200
+516,"Cooking Essentials","Dabur 100% Pure Honey",330.00,10.00,1,297.00,400,0,400
+517,"Cooking Essentials","Ching's Schezwan Fried Rice(Miracle Masala)",44.00,0.00,5,44.00,60,0,60
+518,"Cooking Essentials","Everest Tandoori Chicken Masala",74.00,9.00,3,67.00,100,0,100
+519,"Cooking Essentials","Popular Essentials Red Poha",45.00,4.00,6,43.00,500,0,500
+520,"Cooking Essentials","Everest Kitchen King Masala",142.00,9.00,6,128.00,200,0,200
+521,"Cooking Essentials","Pillsbury Oven Cake Mix - Rich Chocolate",165.00,10.00,5,147.00,285,0,285
+522,"Cooking Essentials","Eastern Super Garam Masala",74.00,6.00,2,69.00,200,0,200
+523,"Cooking Essentials","Maggi Magic Cubes Extra Chicken",40.00,2.00,6,39.00,48,0,48
+524,"Cooking Essentials","Satyam Nighties Spices  Chilli Kashmiri",102.00,6.00,6,95.00,100,0,100
+525,"Cooking Essentials","Eastern Cumin Powder",49.00,2.00,6,48.00,100,0,100
+526,"Cooking Essentials","Popular Essentials Urad Gola White(Un-Polished)",90.00,10.00,6,81.00,500,0,500
+527,"Cooking Essentials","24 Mantra Organic Chana Dal",95.00,6.00,5,89.00,500,0,500
+528,"Cooking Essentials","Delight Nuts Cashew Roasted & Salted",425.00,20.00,6,340.00,200,0,200
+529,"Cooking Essentials","Popular Essentials Mace/Javitri",90.00,10.00,3,81.00,20,0,20
+530,"Cooking Essentials","Dlicia Whip Topping Bottle",235.00,27.00,5,171.00,1000,0,1
+531,"Cooking Essentials","Mother's Recipe Paste Ginger & Garlic",76.00,10.00,4,68.00,300,0,300
+532,"Cooking Essentials","24 Mantra Groundnut Oil (Cold Pressed) Pet Bottle",410.00,10.00,6,369.00,1000,0,1
+533,"Cooking Essentials","Satyam Pulses Masur Dal",87.00,6.00,6,81.00,500,0,500
+534,"Cooking Essentials","Delight Nuts Pista Roasted & Salted",425.00,20.00,6,340.00,200,0,200
+535,"Cooking Essentials","Top Ramen Noodles, Atta",80.00,0.00,1,80.00,280,0,280
+536,"Cooking Essentials","Hershey's Cocoa Powder",95.00,0.00,5,95.00,70,0,70
+537,"Cooking Essentials","Praakritik Organic Singhara Atta",240.00,6.00,4,225.00,500,0,500
+538,"Cooking Essentials","Gits Veg Biryani Ready to Eat",110.00,10.00,6,99.00,265,0,265
+539,"Cooking Essentials","Delight Nuts Cranberries Sliced ",299.00,20.00,6,239.00,200,0,200
+540,"Cooking Essentials","Borges Durum Wheat Pasta Superior Quality",250.00,40.00,6,149.00,500,0,500
+541,"Cooking Essentials","Ceres Foods Laal Maas Instant Liquid Masala",220.00,50.00,5,110.00,200,0,200
+542,"Cooking Essentials","Popular Essentials Sattu Atta",90.00,12.00,3,79.00,500,0,500
+543,"Cooking Essentials","Popular Essentials Mustard Seeds Rai Yellow",25.00,0.00,5,25.00,100,0,100
+544,"Cooking Essentials","Praakritik Organic Extra Virgin Coconut Oil",150.00,10.00,5,134.00,100,0,100
+545,"Cooking Essentials","Praakritik Organic Garlic Powder",110.00,1.00,5,108.00,100,0,100
+546,"Cooking Essentials","Sugarfree Gold Low Calorie Sweetner ",125.00,5.00,6,118.00,100,0,100
+547,"Cooking Essentials","Aashirvaad Breakfast Instant Mix - Rice Idli",75.00,30.00,6,52.00,200,0,200
+548,"Cooking Essentials","Kitchens Of India Mutter Paneer",130.00,4.00,6,124.00,285,0,285
+549,"Cooking Essentials","Ching's Secret Veg Manchurian Masala",44.00,0.00,6,44.00,60,0,60
+550,"Cooking Essentials","Popular Essentials Jowa Flour",50.00,2.00,5,49.00,500,0,500
+551,"Cooking Essentials","Everest Shahi Biryani Masala",245.00,0.00,6,245.00,200,0,200
+552,"Cooking Essentials","Popular Essentials Black Til",50.00,6.00,4,47.00,100,0,100
+553,"Cooking Essentials","Popular Essentials Pancharatna Dal",80.00,10.00,6,72.00,500,0,500
+554,"Cooking Essentials","Saffola 100% Pure Honey",475.00,8.00,2,437.00,1000,0,750
+555,"Cooking Essentials","Popular Essentials Tamarind",150.00,14.00,6,128.00,500,0,500
+556,"Cooking Essentials","Gits Rice Dosa Instant Breakfast Mix",60.00,5.00,5,57.00,200,0,200
+557,"Cooking Essentials","Popular Essentials Poppy Seeds (Gasagase)",280.00,7.00,6,260.00,100,0,100
+558,"Cooking Essentials","Hershey's Hot Chocolate Powder",210.00,0.00,4,210.00,250,0,250
+559,"Cooking Essentials","Borges Farfalle Durum Wheat Pasta ",250.00,0.00,5,250.00,500,0,500
+560,"Cooking Essentials","Satyam Chilli  Bedgi",82.00,10.00,5,73.00,100,0,100
+561,"Cooking Essentials","Aashirvaad Instant Mix - Rice Dosa",75.00,30.00,6,52.00,200,0,200
+562,"Cooking Essentials","Hershey's Cocoa - Natural Unsweetened",270.00,10.00,4,243.00,225,0,225
+563,"Cooking Essentials","Weikfield Veg Jelly Crystals - Mango",45.00,2.00,6,44.00,90,0,90
+564,"Cooking Essentials","Praakritik Orrganic Cold Pressed Sesame Oil",130.00,10.00,5,117.00,100,0,100
+565,"Cooking Essentials","Amulya Dairy Whitener ",380.00,2.00,4,372.00,1000,0,1
+566,"Cooking Essentials","ITC Master Chef Hyderabadi Biryani",75.00,30.00,5,52.00,80,0,80
+567,"Cooking Essentials","Flying Bird Butter Scotch Essence",50.00,2.00,6,49.00,20,0,20
+568,"Cooking Essentials","Dabur Hommade - Ginger Paste",50.00,6.00,6,47.00,200,0,200
+569,"Cooking Essentials","Popular Essentials Green Peas (Un-Polished)",120.00,10.00,5,108.00,500,0,500
+570,"Cooking Essentials","Quaker Oats Pouch",276.00,10.00,6,248.00,1500,0,1
+571,"Cooking Essentials","24 Mantra Organic Urad White Whole",145.00,15.00,4,122.00,500,0,500
+572,"Cooking Essentials","Popular Essentials Guntur Chilli Stemless",40.00,2.00,2,39.00,100,0,100
+573,"Cooking Essentials","Popular Essentials Moth Whole",90.00,10.00,6,81.00,500,0,500
+574,"Cooking Essentials","Keya Pizza Seasoning",109.00,17.00,6,90.00,45,0,45
+575,"Cooking Essentials","Keya Piri Piri | Exotic Spices Mix",109.00,20.00,6,87.00,80,0,80
+576,"Cooking Essentials","24 Mantra Organic Moong Dal",135.00,7.00,6,125.00,500,0,500
+577,"Cooking Essentials","Betty Crocker French Vanilla Cake Mix",310.00,10.00,6,276.00,520,0,520
+578,"Cooking Essentials","Delight Nuts Dried Cranberries ",340.00,20.00,6,272.00,200,0,200
+579,"Cooking Essentials","Everest Kesari Milk Masala",205.00,0.00,2,205.00,50,0,50
+580,"Cooking Essentials","Tong Garden Salted Cocktail Nuts",295.00,9.00,5,266.00,160,0,160
+581,"Cooking Essentials","MTR Uttapam Mix",165.00,5.00,6,156.00,500,0,500
+582,"Cooking Essentials","Gits Khaman Dhokla Instant Snack Mix",65.00,6.00,6,61.00,180,0,180
+583,"Cooking Essentials","Happilo Premium 100% Natural Whole Cashews",335.00,29.00,6,235.00,200,0,200
+584,"Cooking Essentials","Everest Dry Mango Powder",80.00,0.00,5,80.00,100,0,100
+585,"Cooking Essentials","Dabur Hommade - Ginger Garlic Past Tub",110.00,5.00,6,104.00,400,0,400
+586,"Cooking Essentials","Everest Chicken Masala",147.00,10.00,6,132.00,200,0,200
+587,"Cooking Essentials","Gits Medu Vada Instant Snack Mix",90.00,4.00,6,86.00,200,0,200
+588,"Cooking Essentials","Weikfield Drinking Chocolate Powder",65.00,10.00,6,58.00,100,0,100
+589,"Cooking Essentials","Popular Essentials Regular White Lobia",70.00,10.00,6,63.00,500,0,500
+590,"Cooking Essentials","Puro Healthy Salt Crystal",135.00,7.00,6,125.00,1000,0,1
+591,"Cooking Essentials","Popular Essentials Premium Jeera Rice",140.00,0.00,5,140.00,1000,0,1
+592,"Cooking Essentials","Smith & Jones Shahi Paneer Masala Mix",44.00,0.00,6,44.00,60,0,60
+593,"Cooking Essentials","Betty Crocker Mug Treats - Chocolate Mix - Pack of 4",200.00,11.00,6,178.00,264,0,264
+594,"Cooking Essentials","Smith & Jones Pasta Masala",60.00,10.00,5,54.00,108,0,108
+595,"Cooking Essentials","Catch Black Pepper Sprinkler",100.00,0.00,1,100.00,50,0,50
+596,"Cooking Essentials","Weikfield Cooker Cake Mix - Chocolate",95.00,6.00,6,89.00,150,0,150
+597,"Cooking Essentials","ITC Master Chef Butter Chicken",75.00,30.00,6,52.00,80,0,80
+598,"Cooking Essentials","Masala Oats Masala & Coriander ",195.00,9.00,5,176.00,500,0,500
+599,"Cooking Essentials","Smith & Jones Mutter Paneer Masala",42.00,0.00,6,42.00,60,0,60
+600,"Cooking Essentials","Kitchens of India Dal Bukhara Gravy Mix",110.00,30.00,6,77.00,285,0,285
+601,"Cooking Essentials","Popular Essentials Fried Gram (Bengal Gram)",70.00,10.00,6,63.00,500,0,500
+602,"Cooking Essentials","Gits Jalebi with Maker Dessert Mix",75.00,16.00,6,63.00,100,0,100
+603,"Cooking Essentials","Popular Essentials Soya Beans ",80.00,6.00,6,75.00,500,0,500
+604,"Cooking Essentials","24 Mantra Organic Roasted Bengal Gram Dal",105.00,7.00,6,97.00,500,0,500
+605,"Cooking Essentials","Keya Italian Seasoning",109.00,10.00,6,98.00,35,0,35
+606,"Cooking Essentials","MTR Idli/Dosa/Chilly Chutney Powder",115.00,0.00,3,115.00,200,0,200
+607,"Cooking Essentials","Delight Nuts Trail Mix ",399.00,25.00,6,299.00,200,0,200
+608,"Cooking Essentials","Praakritik Organic Chilka Moong Dal",120.00,10.00,6,108.00,500,0,500
+609,"Cooking Essentials","Smith & Jones Garlic & Herbs Masala Mix",99.00,0.00,6,99.00,75,0,75
+610,"Cooking Essentials","Eastern Tamarind",63.00,0.00,6,63.00,200,0,200
+611,"Cooking Essentials","Tong Garden Wasabi Coated Greenpeas Tin",200.00,11.00,6,178.00,180,0,180
+612,"Cooking Essentials","Flying Bird Pineapple Artifical Food Essence",50.00,2.00,6,49.00,20,0,20
+613,"Cooking Essentials","Mother's Recipe Tamarind Paste",50.00,2.00,2,49.00,200,0,200
+614,"Cooking Essentials","Japanese Choice Udon Noodles",295.00,9.00,6,266.00,250,0,250
+615,"Cooking Essentials","Pantai Coconut Milk",150.00,0.00,4,150.00,400,0,400
+616,"Cooking Essentials","Praakritik Organic Masoor Dal",130.00,10.00,6,116.00,500,0,500
+617,"Cooking Essentials","Popular Essentials Classic Sona Masuri Rice",430.00,10.00,6,387.00,5000,0,5
+618,"Cooking Essentials","Popular Essentials Salted Murmure ",70.00,18.00,6,57.00,400,0,400
+619,"Cooking Essentials","Oleev Active Oil (Pouch)",265.00,9.00,6,239.00,1000,0,1
+620,"Cooking Essentials","Delight Nuts Dried Blueberries ",540.00,20.00,6,432.00,150,0,150
+621,"Cooking Essentials","Popular Essentials Double Beans White",60.00,10.00,6,54.00,250,0,250
+622,"Cooking Essentials","Delight Nuts Almond Natural ",349.00,20.00,6,279.00,200,0,200
+623,"Cooking Essentials","Praakritik Organic Jaggery",160.00,6.00,6,150.00,900,0,900
+624,"Cooking Essentials","Praakritik Organic Raw Sugar",90.00,6.00,6,84.00,500,0,500
+625,"Cooking Essentials","MTR Masala - Sambar Powder",115.00,0.00,4,115.00,200,0,200
+626,"Cooking Essentials","RRO Til Dil Premium Til Oil Bottle",173.00,6.00,6,162.00,500,0,500
+627,"Cooking Essentials","ITC Master Chef Vegetable Biryani Cooking Paste",75.00,30.00,5,52.00,80,0,80
+628,"Cooking Essentials","Jivana Jaggery",100.00,0.00,2,100.00,950,0,950
+629,"Cooking Essentials","Praakritik Organic Besan",170.00,6.00,6,159.00,500,0,500
+630,"Cooking Essentials","MTR Instant Gulab Jamun Mix",195.00,9.00,6,176.00,500,0,500
+631,"Cooking Essentials","Maggi Magic Cubes Extra Chicken",199.00,0.00,2,199.00,240,0,240
+632,"Cooking Essentials","On1y Mixed Herbs",99.00,0.00,6,99.00,14,0,14
+633,"Cooking Essentials","Popular Essentials Urad Gola Black (Un-Polished)",80.00,10.00,6,72.00,500,0,500
+634,"Cooking Essentials","Gits Dessert Mix China Grass Bombay Halwa",55.00,0.00,4,55.00,80,0,80
+635,"Cooking Essentials","Praakritik Organic Basmati Rice",170.00,0.00,5,170.00,500,0,500
+636,"Cooking Essentials","Ceres Foods Nalli Nihari Instant Liquid Masala",220.00,50.00,6,110.00,200,0,200
+637,"Cooking Essentials","Borges Canola Oil Pet Bottle",399.00,0.00,6,399.00,1000,0,1
+638,"Cooking Essentials","Suhana Biryani Masala",66.00,0.00,6,66.00,50,0,50
+639,"Cooking Essentials","On1y Black Salt Grinder",99.00,0.00,6,99.00,100,0,100
+640,"Cooking Essentials","Popular Essentials Nylon Til",40.00,2.00,6,39.00,100,0,100
+641,"Cooking Essentials","Pillsbury Rich Choco Oven Cake Mix - Egg Free",170.00,6.00,6,159.00,270,0,270
+642,"Cooking Essentials","Weikfield Tomato Salsa Instant Pasta",25.00,0.00,1,25.00,77,0,77
+643,"Cooking Essentials","Praakritik Organic Jowar Atta",110.00,6.00,6,103.00,500,0,500
+644,"Cooking Essentials","Sugarfree Gold Low Calorie Sweetner ",270.00,7.00,6,251.00,50,0,50
+645,"Cooking Essentials","Epicurea Thai Jasmine Rice",295.00,0.00,4,295.00,500,0,500
+646,"Cooking Essentials","Yummiez Chicken Garlic Fingers Pouch",250.00,0.00,5,250.00,400,0,400
+647,"Cooking Essentials","RRO Primio Refined Groundnut (Jar)",490.00,11.00,6,436.00,2000,0,2
+648,"Cooking Essentials","Praakritik Organic Tuvar Dal",140.00,0.00,6,140.00,500,0,500
+649,"Cooking Essentials","Sugarfree Gold Low Calorie Sweetner",185.00,5.00,3,175.00,300,0,300
+650,"Cooking Essentials","Cantina Beans Mexican Beans",250.00,14.00,6,213.00,410,0,410
+651,"Cooking Essentials","Pillsbury Oven Cake Mix - Vanilla",175.00,10.00,6,156.00,225,0,225
+652,"Cooking Essentials","Hershey's Chocolate Milk Booster",200.00,0.00,6,200.00,450,0,450
+653,"Cooking Essentials","Popular Essentials Byadagi Chilli Stemless",80.00,0.00,6,80.00,100,0,100
+654,"Cooking Essentials","Suhana Spice Mix - Chicken Biryani",66.00,0.00,6,66.00,50,0,50
+655,"Cooking Essentials","Praakritik Organic Yellow Moon Dal",135.00,0.00,6,135.00,500,0,500
+656,"Cooking Essentials","Maggi Magic Cubes Extra Chicken",199.00,10.00,6,179.00,240,0,240
+657,"Cooking Essentials","Dhara Filtered Groundnut Oil (Jar)",1050.00,0.00,2,1050.00,5000,0,5
+658,"Cooking Essentials","24 Mantra Sona Masuri Brown Rice",475.00,10.00,6,423.00,5000,0,5
+659,"Cooking Essentials","24 Mantra Organic Pancharatna Dal - Split",130.00,7.00,6,120.00,500,0,500
+660,"Cooking Essentials","24 Mantra Organic Cumin Powder",70.00,0.00,6,70.00,100,0,100
+661,"Cooking Essentials","Popular Essentials Samba Broken Wheat",100.00,11.00,6,89.00,500,0,500
+662,"Cooking Essentials","Betty Crocker Chocolate Fudge Cake Mix",295.00,0.00,6,295.00,475,0,475
+663,"Cooking Essentials","Borges Extra Light Olive Oil Bottle ",2600.00,46.00,6,1399.00,2000,0,2
+664,"Cooking Essentials","Flying Bird Premium Orange Artificial Food Essence",60.00,0.00,6,60.00,20,0,20
+665,"Cooking Essentials","Popular Essentials Red Cherry/Gundu Chilli",95.00,0.00,6,95.00,100,0,100
+666,"Cooking Essentials","Super Saver Kolam Rice Sortex Clean ",700.00,10.00,3,630.00,5000,0,5
+667,"Cooking Essentials","Flying Bird Food Essence - Kewra",50.00,0.00,6,50.00,20,0,20
+668,"Cooking Essentials","MTR Vada Breakfast",200.00,0.00,1,200.00,500,0,500
+669,"Cooking Essentials","On1y Pasta Seasoning",99.00,0.00,6,99.00,30,0,30
+670,"Cooking Essentials","Praakritik Organic Indrayani Rice",70.00,0.00,6,70.00,500,0,500
+671,"Cooking Essentials","On1y Pizza Seasoning",99.00,0.00,6,99.00,28,0,28
+672,"Cooking Essentials","Kitchens of India Mutter Paneer Mix",120.00,30.00,4,84.00,285,0,285
+673,"Cooking Essentials","Aashirvaad Svasti Cow Ghee Tetra Pack",295.00,0.00,6,295.00,500,0,500
+674,"Cooking Essentials","Weikfield Cooker Cake Mix - Vanilla",95.00,0.00,6,95.00,150,0,150
+675,"Cooking Essentials","Praakritik Organic Kapli Wheat Atta",165.00,10.00,6,147.00,1000,0,1
+676,"Cooking Essentials","Epicurea Sushi Rice",295.00,0.00,6,295.00,500,0,500
+677,"Cooking Essentials","Sugarfree Natural Green Stevia Leaves Zero Calorie",75.00,0.00,2,75.00,100,0,100
+678,"Cooking Essentials","Smith & Jones Italian Spices Masala Mix",99.00,0.00,6,99.00,75,0,75
+679,"Cooking Essentials","Satyam Nighties Spices  Chilli Bore",89.00,10.00,6,80.00,100,0,100
+680,"Cooking Essentials","Weikfield Veg Jelly Crystals - Orange",45.00,2.00,6,44.00,90,0,90
+681,"Cooking Essentials","Praakritik Organic Jumbo Rolled Oats",190.00,11.00,6,169.00,500,0,500
+682,"Cooking Essentials","On1y Sea Salt Grinder",89.00,0.00,6,89.00,100,0,100
+683,"Cooking Essentials","Delight Nuts Berries Mix ",399.00,20.00,6,319.00,200,0,200
+684,"Cooking Essentials","Everest Kesari Milk Masala",205.00,0.00,6,205.00,50,0,20
+685,"Cooking Essentials","Praakritik Organic Ginger Powder",139.00,10.00,6,125.00,100,0,100
+686,"Cooking Essentials","Suhana Mutton Gravy Mix",45.00,0.00,4,45.00,80,0,80
+687,"Cooking Essentials","On1y Salad Seasoning Grinder",139.00,0.00,6,139.00,45,0,45
+688,"Cooking Essentials","Figaro Pure Olive Oil",325.00,8.00,1,299.00,200,0,200
+689,"Cooking Essentials","Madhur Sugar",60.00,6.00,0,56.00,1000,1,1
+690,"Cooking Essentials","Amul Fresh Cream",63.00,0.00,0,63.00,250,1,250
+691,"Cooking Essentials","Madhur Pure And Hygienic Sugar",295.00,9.00,0,266.00,5000,1,5
+692,"Cooking Essentials","Satyam Poha Jada",35.00,8.00,0,32.00,500,1,500
+693,"Cooking Essentials","Aashirvaad Superior MP Whole Wheat Atta",53.00,1.00,0,52.00,1000,1,1
+694,"Cooking Essentials","Fortune Soyabean Oil",210.00,13.00,0,181.00,1000,1,1
+695,"Cooking Essentials","Maggi Masala Ae Magic",58.00,6.00,0,54.00,72,1,72
+696,"Cooking Essentials","Aashirvaad Iodised Salt ",22.00,13.00,0,19.00,1000,1,1
+697,"Cooking Essentials","Maggi 2-Minute Instant Noodles - Masala",44.00,0.00,0,44.00,280,1,280
+698,"Cooking Essentials","Popular Essentials Phool Makhana (Jumbo Size)",150.00,14.00,0,128.00,100,1,100
+699,"Cooking Essentials","Aashirvaad Atta With Mutigrains",315.00,8.00,0,287.00,5000,1,5
+700,"Cooking Essentials","Tata Sampann Poha",44.00,6.00,0,41.00,500,1,500
+701,"Cooking Essentials","Fortune Besan Flour",120.00,0.00,0,120.00,1000,1,1
+702,"Cooking Essentials","Popular Essentials Toor Dal (Un-Polished)",80.00,7.00,0,74.00,500,1,500
+703,"Cooking Essentials","Everest Tikhalal Hot & Red Chilly Powder",47.00,2.00,0,46.00,100,1,100
+704,"Cooking Essentials","Popular Essentials Chia Seeds",50.00,2.00,0,49.00,100,1,100
+705,"Cooking Essentials","Tata Sampann Unpolished Toor Dal/Arhar Dal",179.00,1.00,0,177.00,1000,1,200
+706,"Cooking Essentials","Everest Coriander Powder",32.00,3.00,0,31.00,100,1,100
+707,"Cooking Essentials","Satyam Thin Poha Patla",38.00,7.00,0,35.00,500,1,500
+708,"Cooking Essentials","Popular Essentials Sona Masouri Raw Rice",75.00,0.00,0,75.00,1000,1,1
+709,"Cooking Essentials","Tata Sampann High Protien Chana Dal - Split",64.00,0.00,0,64.00,500,1,500
+710,"Cooking Essentials","Satyam Singdana ",119.00,6.00,0,111.00,500,1,500
+711,"Cooking Essentials","Tata Sampann Moong Chilka ",88.00,6.00,0,82.00,500,1,500
+712,"Cooking Essentials","Tata Sampann High Protien Toor Dal - Split",91.00,2.00,0,89.00,500,1,500
+713,"Cooking Essentials","Ching's Chow Mein Hakka Noodles Masala",10.00,0.00,0,10.00,20,1,20
+714,"Cooking Essentials","Everest Chat Masala",65.00,9.00,0,59.00,100,1,100
+715,"Cooking Essentials","Popular Essentials Black Brown Chana (Un-Polished)",55.00,9.00,0,50.00,500,1,500
+716,"Cooking Essentials","Dabur Ginger Garlic Paste",50.00,6.00,0,47.00,200,1,200
+717,"Cooking Essentials","Ching's Secret Veg Hakka Noodles",107.00,0.00,0,107.00,600,1,600
+718,"Cooking Essentials","Saffola Oats 100 % Natural",15.00,0.00,0,15.00,38,1,38
+719,"Cooking Essentials","Everest Kashmiri Lal Chilli Powder",310.00,10.00,0,279.00,500,1,500
+720,"Cooking Essentials","Popular Essentials Black Raisins Seedless",60.00,10.00,0,54.00,100,1,100
+721,"Cooking Essentials","Daawat Rozana Super Basmati Rice",79.00,0.00,0,79.00,1000,1,1
+722,"Cooking Essentials","Everest Cumin Powder (Jeera)",30.00,3.00,0,29.00,50,1,50
+723,"Cooking Essentials","Everest Sambhar Masala",34.00,2.00,0,33.00,50,1,50
+724,"Cooking Essentials","Maggi Chilly Chow Cuppa Noodles",50.00,0.00,0,50.00,70,1,70
+725,"Cooking Essentials","Popular Essentials Mustard Seeds Rai Big",20.00,0.00,0,20.00,100,1,100
+726,"Cooking Essentials","Patanjali Cow's Ghee",565.00,0.00,0,565.00,1000,1,1
+727,"Cooking Essentials","Everest Amchur Powder",42.00,2.00,0,41.00,50,1,50
+728,"Cooking Essentials","Daawat Super Basmati Rice",185.00,8.00,0,169.00,1000,1,1
+729,"Cooking Essentials","Popular Essentials Sabudana",60.00,10.00,0,54.00,500,1,500
+730,"Cooking Essentials","Popular Essentials Brown Sugar",40.00,0.00,0,40.00,500,1,500
+731,"Cooking Essentials","Everest Coriander Powder",70.00,10.00,0,63.00,200,1,200
+732,"Cooking Essentials","Sunfeast Yippee! Magic Masala Noodles",48.00,6.00,0,45.00,240,1,240
+733,"Cooking Essentials","Tata Tea Gold",35.00,0.00,0,35.00,100,1,200
+734,"Cooking Essentials","Daawat Rozana Gold Basmati Rice",90.00,1.00,0,89.00,1000,1,1
+735,"Cooking Essentials","Top Ramen Masala",91.00,9.00,0,82.00,560,1,560
+736,"Cooking Essentials","Everest Turmeric Powder",67.00,10.00,0,60.00,200,1,200
+737,"Cooking Essentials","Popular Essentials Buckwheat Flour (Kuttu Atta)",125.00,9.00,0,113.00,500,1,500
+738,"Cooking Essentials","Keya Italian Pizza Oregano",109.00,11.00,0,97.00,80,1,80
+739,"Cooking Essentials","Chef's Basket Durum Wheat Penne Pasta",160.00,50.00,0,80.00,500,1,500
+740,"Cooking Essentials","Tata Sampann Kala Chana",125.00,0.00,0,125.00,1000,1,1
+741,"Cooking Essentials","India Gate Basmati Rice",210.00,0.00,0,210.00,1000,1,1
+742,"Cooking Essentials","24 Mantra Organic Whole Wheat Atta",64.00,7.00,0,59.00,1000,1,1
+743,"Cooking Essentials","Zorabian Chicken Kheema Parathas",190.00,0.00,0,190.00,300,1,300
+744,"Cooking Essentials","Sunfeast Pasta Treat Pack of Tomato Cheese",28.00,17.00,0,23.00,65,1,65
+745,"Cooking Essentials","Sugarlite 50% Less Calories Sugar Pouch",99.00,40.00,0,59.00,500,1,500
+746,"Cooking Essentials","Popular Essentials Sabja/Basil Seeds",60.00,15.00,0,51.00,100,1,100
+747,"Cooking Essentials","Patanjali Pure Honey",95.00,0.00,0,95.00,250,1,250
+748,"Cooking Essentials","Weikfield Falooda Mix - Mango",49.00,2.00,0,48.00,200,1,200
+749,"Cooking Essentials","Pro Nature Organic Sonamasoori Brown Rice",102.00,7.00,0,94.00,1000,1,1
+750,"Cooking Essentials","Maggi Special Masala Spicy Yummy Noodles",72.00,0.00,0,72.00,280,1,280
+751,"Cooking Essentials","Godrej Yummiez Chicken Breakfast Salami",150.00,4.00,0,143.00,250,1,250
+752,"Cooking Essentials","Everest Saffron Kesar",120.00,0.00,0,120.00,1,1,0
+753,Munchies,"Maggi 2 Minute Masala Noodles",12.00,0.00,6,12.00,70,0,70
+754,Munchies,"iD Idli & Dosa Batter ",80.00,15.00,6,68.00,1000,0,1
+755,Munchies,"Tata Salt",24.00,0.00,6,24.00,1000,0,1
+756,Munchies,"Arden Eggs White",97.00,0.00,4,97.00,696,0,12
+757,Munchies,"Arden Eggs White",65.00,15.00,4,55.00,348,0,6
+758,Munchies,"Fortune Sunlite Refined Sunflower (Pouch)",230.00,4.00,6,219.00,1000,0,1
+759,Munchies,"Aashirvaad Superior MP Atta",250.00,2.00,6,245.00,5000,0,5
+760,Munchies,"Amul Pure Ghee (Pouch)",255.00,2.00,6,249.00,500,0,500
+761,Munchies,"Arden Eggs Brown",85.00,7.00,4,79.00,348,0,6
+762,Munchies,"Tata Salt Lite",40.00,10.00,6,36.00,1000,0,1
+763,Munchies,"Saffola Gold Oil (Pouch)",215.00,0.00,6,215.00,1000,0,1
+764,Munchies,"Fortune Sunlite Refined Sunflower (Jar)",925.00,0.00,6,925.00,5000,0,5
+765,Munchies,"Fortune Rice Bran (Pouch)",225.00,11.00,6,199.00,1000,0,1
+766,Munchies,"Saffola Active Oil",210.00,0.00,6,210.00,1000,0,1
+767,Munchies,"Amul Pure Ghee (Pouch)",505.00,1.00,2,499.00,1000,0,1
+768,Munchies,"Aashirvaad Atta",460.00,13.00,6,399.00,10000,0,10
+769,Munchies,"Popular Essentials Toor Dal (Un-Polished)",160.00,6.00,4,149.00,1000,0,1
+770,Munchies,"Amul Ghee (Tin)",520.00,2.00,6,509.00,1000,0,1
+771,Munchies,"Amul Fresh Cream",197.00,3.00,3,191.00,1000,0,1
+772,Munchies,"Popular Essentials Pure Jaggery",50.00,2.00,6,49.00,450,0,450
+773,Munchies,"Aashirvaad Multigrain Atta",64.00,3.00,2,62.00,1000,0,1
+774,Munchies,"Fortune Soyabean Oil",1005.00,0.00,6,999.00,5000,0,5
+775,Munchies,"Popular Essentials Sunflower Seeds",25.00,0.00,6,25.00,50,0,50
+776,Munchies,"Tata Sampann kabuli chana",185.00,1.00,4,183.00,1000,0,500
+777,Munchies,"Dhara Groundnut Oil (Pouch)",230.00,11.00,6,203.00,1000,0,1
+778,Munchies,"Dhara Health Refined Sun Flower Oil Jar",1200.00,18.00,6,984.00,5000,0,5
+779,Munchies,"24 Mantra Organic Jaggery Powder",80.00,15.00,6,68.00,500,0,500
+780,Munchies,"Tata Sampann High Protien Kabuli Chana",94.00,0.00,1,94.00,500,0,500
+781,Munchies,"Dhara Kachi Ghani Mustard Oil Jar",1250.00,8.00,6,1143.00,5000,0,5
+782,Munchies,"D'lecta Dairy Cream",54.00,5.00,6,51.00,200,0,200
+783,Munchies,"Ching's Secret Instant Hot Garlic Noodles",15.00,0.00,3,15.00,60,0,60
+784,Munchies,"Dabur Ginger Garlic Paste",25.00,8.00,3,23.00,100,0,100
+785,Munchies,"Ching's Secret Instant Schezwan Noodles",15.00,0.00,6,15.00,60,0,60
+786,Munchies,"Gowardhan Ghee/Tuppa Jar",315.00,1.00,6,309.00,500,0,500
+787,Munchies,"Tata Sampann Unpolished Moong Dal ",92.00,4.00,4,88.00,500,0,500
+788,Munchies,"Aashirvaad Select Atta",64.00,0.00,6,64.00,1000,0,1
+789,Munchies,"Popular Essentials Misri Dana (Diamond Sugar) ",15.00,0.00,4,15.00,100,0,100
+790,Munchies,"Gowardhan Ghee Jar",598.00,3.00,6,579.00,1000,0,1
+791,Munchies,"Top Ramen  Noodles Curry Veg Pouch",20.00,0.00,1,20.00,70,0,70
+792,Munchies,"Popular Essentials Refined Sugar",60.00,0.00,6,60.00,1000,0,1
+793,Munchies,"Fortune Kachi Ghani Mustard Oil Bottle",216.00,7.00,6,199.00,1000,0,1
+794,Munchies,"Saffola Veggie Twist Masala Oats",15.00,0.00,6,15.00,38,0,38
+795,Munchies,"Satyam Puffed Rice Kurmura (R)",23.00,0.00,6,23.00,200,0,200
+796,Munchies,"Quaker Oats",79.00,0.00,2,79.00,400,0,400
+797,Munchies,"Aashirvaad Select Sharbati Atta",315.00,10.00,6,283.00,5000,0,5
+798,Munchies,"Popular Essentials Refined Sugar",295.00,10.00,6,265.00,5000,0,5
+799,Munchies,"Gowardhan Cow Ghee Pouch",579.00,10.00,6,521.00,1000,0,1
+800,Munchies,"Dhara Nourish Refined Sunflower Oil Pouch",210.00,5.00,6,199.00,1000,0,1
+801,Munchies,"Parachute Oil ",40.00,7.00,3,37.00,100,0,100
+802,Munchies,"Popular Essentials Plain Puffed Rice (Murmura/Muri)",18.00,0.00,6,18.00,100,0,100
+803,Munchies,"Amul Mithai Mate Condensed Sweetened Milk",56.00,3.00,4,54.00,200,0,200
+804,Munchies,"Saffola Gold (Jar)",1240.00,0.00,6,1240.00,5000,0,5
+805,Munchies,"McCain New Mini Samosa with Cheese Pizza Style Filling",120.00,1.00,3,118.00,240,0,240
+806,Munchies,"Fortune Rice Bran Health Oil (Jar)",1050.00,1.00,6,1039.00,5000,0,5
+807,Munchies,"Arden Desi Eggs",110.00,13.00,4,95.00,348,0,6
+808,Munchies,"Fortune Rozana Basmati Rice",585.00,21.00,6,462.00,5000,0,5
+809,Munchies,"Fortune Biriyani Special Basmati Rice",175.00,0.00,5,175.00,1000,0,1
+810,Munchies,"Everest Garam Masala",78.00,7.00,5,72.00,100,0,100
+811,Munchies,"Popular Essentials Pumpkin Seeds",90.00,16.00,6,75.00,100,0,100
+812,Munchies,"Fortune Soya Health Refined Soybean Oil",210.00,1.00,2,206.00,1000,0,1
+813,Munchies,"Gowardhan Pure Ghee Pouch",295.00,4.00,6,281.00,500,0,500
+814,Munchies,"Popular Essentials Jeera/Cumin Seeds",40.00,5.00,3,38.00,100,0,100
+815,Munchies,"Weikfield Baking Soda",30.00,3.00,6,29.00,100,0,100
+816,Munchies,"Everest Pav Bhaji Masala",37.00,10.00,4,33.00,50,0,50
+817,Munchies,"Tata Sampann Unpolished Chana Dal",95.00,6.00,2,89.00,1000,0,500
+818,Munchies,"Amul Mithai Mate EOE Tin",112.00,2.00,6,109.00,400,0,400
+819,Munchies,"Pillsbury Chakki Fresh Atta",450.00,16.00,6,375.00,10000,0,10
+820,Munchies,"Everest Chicken Masala",39.00,2.00,1,38.00,50,0,50
+821,Munchies,"Dhara Life Refined Ricebran Oil (Pouch)",205.00,7.00,6,190.00,1000,0,1
+822,Munchies,"Borges Extra Virgin Olive Oil",400.00,25.00,1,299.00,250,0,250
+823,Munchies,"Everest Shahi Biryani Masala",70.00,14.00,6,60.00,50,0,50
+824,Munchies,"Popular Essentials Californian Almond",350.00,28.00,6,251.00,250,0,250
+825,Munchies,"Popular Essentials Ajwain Whole",25.00,0.00,4,25.00,50,0,50
+826,Munchies,"Everest Tikhalal Chilli Powder",235.00,9.00,6,212.00,500,0,500
+827,Munchies,"Popular Essentials Kabuli Chana Regular",85.00,9.00,6,77.00,500,0,500
+828,Munchies,"Pillsbury Chakki Fresh Atta",52.00,0.00,4,52.00,1000,0,1
+829,Munchies,"Popular Essentials Saunf/Fennel Seeds",45.00,2.00,6,44.00,100,0,100
+830,Munchies,"Popular Essentials Bansi Sooji",35.00,2.00,3,34.00,500,0,500
+831,Munchies,"Happilo Premium International Queen Kalmi Dates",245.00,29.00,6,172.00,200,0,200
+832,Munchies,"Tata Sampann Unpolished Urad Whole",101.00,6.00,4,94.00,500,0,500
+833,Munchies,"Popular Essentials Cashew Split",325.00,12.00,6,283.00,250,0,250
+834,Munchies,"Popular Essentials Chana Dal (Un-Polished)",60.00,10.00,6,54.00,500,0,500
+835,Munchies,"Tata Sampann Unpolished Rajma (Chitra)",134.00,6.00,6,125.00,500,0,500
+836,Munchies,"Everest Garam Masala",42.00,2.00,2,41.00,50,0,50
+837,Munchies,"Everest Kitchen King Masala",70.00,14.00,2,60.00,100,0,100
+838,Munchies,"24 Mantra Organic Cumin",70.00,7.00,2,65.00,100,0,100
+839,Munchies,"Nestle Milkmaid",132.00,3.00,6,128.00,400,0,400
+840,Munchies,"Popular Essentials Sona Masouri Steam Rice",65.00,9.00,6,59.00,1000,0,1
+841,Munchies,"24 Mantra Organic Tur Dal",260.00,20.00,6,208.00,1000,0,1
+842,Munchies,"Gits Gulab Jamun Instant Dessert Mix",99.00,10.00,6,89.00,200,0,200
+843,Munchies,"Popular Essentials Black Masoor Whole (Un-Polished)",65.00,10.00,3,58.00,500,0,500
+844,Munchies,"24 Mantra Organic Peanuts",135.00,7.00,1,125.00,500,0,500
+845,Munchies,"Everest Hingraj Powder",90.00,10.00,2,81.00,50,0,50
+846,Munchies,"Everest Black Pepper Powder",135.00,14.00,6,115.00,100,0,100
+847,Munchies,"Tata Sampann Masoor Dal Stand",150.00,10.00,4,134.00,1000,0,1
+848,Munchies,"24 Mantra Organic Besan",95.00,7.00,5,88.00,500,0,500
+849,Munchies,"Quaker Oats",199.00,7.00,6,184.00,1000,0,1
+850,Munchies,"Saffola Gold Refined Cooking Oil (Jar)",485.00,7.00,6,449.00,2000,0,2
+851,Munchies,"Nestle Everyday Dairy Whitener",210.00,0.00,4,210.00,400,0,400
+852,Munchies,"24 Mantra Organic Red Poha",75.00,8.00,1,69.00,500,0,500
+853,Munchies,"Everest Powder - Tea Masala",98.00,9.00,5,89.00,100,0,100
+854,Munchies,"Tata Sampann Urad Dal Split",94.00,4.00,6,90.00,500,0,500
+855,Munchies,"Popular Essentials Idli Sooji ",30.00,6.00,6,28.00,500,0,500
+856,Munchies,"Popular Essentials Dessicated Coconut",95.00,9.00,6,86.00,200,0,200
+857,Munchies,"Sunfeast Yippee! Mood Masala Noodles",60.00,28.00,3,43.00,260,0,260
+858,Munchies,"Chef's Basket Durum Wheat Elbow Pasta",160.00,50.00,6,80.00,500,0,500
+859,Munchies,"MTR Breakfast Khatta Meetha Poha Mix",25.00,20.00,6,20.00,60,0,60
+860,Munchies,"Satyam Khobra",113.00,10.00,5,101.00,200,0,200
+861,Munchies,"Betty Crocker Complete Pancake Mix Original",110.00,4.00,6,105.00,250,0,500
+862,Munchies,"Borges Durum Wheat Fusilli Pasta ",250.00,0.00,3,250.00,500,0,500
+863,Munchies,"24 Mantra Organic Green Moong Dal - Split",135.00,0.00,2,135.00,500,0,500
+864,Munchies,"Weikfield Vanilla Flavoured Custard Powder",37.00,0.00,6,37.00,100,0,100
+865,Munchies,"Tata Sampann Moong Dal Split",180.00,1.00,5,178.00,1000,0,200
+866,Munchies,"Tata Sampann Kala Chana",64.00,0.00,5,64.00,500,0,500
+867,Munchies,"Saffola Soya Chunks Mealmaker",50.00,0.00,2,50.00,200,0,200
+868,Munchies,"24 Mantra Bura Sugar (Demerara)",80.00,10.00,6,72.00,500,0,500
+869,Munchies,"Popular Essentials Green Cardamom (Elaichi)",200.00,1.00,6,198.00,50,0,50
+870,Munchies,"Hershey's Syrup Delicious Strawberry",95.00,0.00,1,95.00,200,0,200
+871,Munchies,"Popular Essentials Anjeer",190.00,11.00,4,169.00,100,0,100
+872,Munchies,"Popular Essentials Mustard Seeds Rai Small",20.00,0.00,2,20.00,100,0,100
+873,"Fruits & Vegetables",Onion,25.00,16.00,3,21.00,1000,0,1
+874,"Fruits & Vegetables","Tomato Hybrid",42.00,16.00,3,35.00,1000,0,1
+875,"Fruits & Vegetables","Tender Coconut",51.00,15.00,3,43.00,58,0,1
+876,"Fruits & Vegetables","Coriander Leaves",20.00,15.00,3,17.00,100,0,100
+877,"Fruits & Vegetables","Ladies Finger ",14.00,14.00,3,12.00,250,0,250
+878,"Fruits & Vegetables",Potato,35.00,17.00,3,29.00,1000,0,1
+879,"Fruits & Vegetables",Lemon,75.00,16.00,3,63.00,200,0,200
+880,"Fruits & Vegetables","Watermelon ",58.00,15.00,3,49.00,58,0,1
+881,"Fruits & Vegetables","Capsicum Green ",23.00,17.00,3,19.00,250,0,250
+882,"Fruits & Vegetables","Chilli Green ",19.00,15.00,3,16.00,100,0,100
+883,"Fruits & Vegetables","Banana Robusta",29.00,17.00,3,24.00,348,0,6
+884,"Fruits & Vegetables","Garlic Indian ",11.00,18.00,3,9.00,100,0,100
+885,"Fruits & Vegetables",Cauliflower,26.00,15.00,3,22.00,58,0,1
+886,"Fruits & Vegetables",Ginger,14.00,14.00,3,12.00,200,0,200
+887,"Fruits & Vegetables",Spinach,19.00,15.00,3,16.00,250,0,250
+888,"Fruits & Vegetables",Muskmelon,42.00,16.00,3,35.00,58,0,1
+889,"Fruits & Vegetables","Cabbage ",15.00,13.00,3,13.00,58,0,1
+890,"Fruits & Vegetables",Methi,30.00,16.00,3,25.00,250,0,250
+891,"Fruits & Vegetables",Broccoli,36.00,16.00,3,30.00,500,0,500
+892,"Fruits & Vegetables",Sapota,30.00,16.00,3,25.00,348,0,6
+893,"Fruits & Vegetables",Onion,68.00,16.00,3,57.00,3000,0,3
+894,"Fruits & Vegetables",Potato,100.00,16.00,3,84.00,3000,0,3
+895,"Fruits & Vegetables","Orange Nagpur",82.00,15.00,3,69.00,232,0,4
+896,"Fruits & Vegetables","Mint Leaves ",11.00,18.00,3,9.00,100,0,100
+897,"Fruits & Vegetables","Beans French",33.00,15.00,3,28.00,250,0,250
+898,"Fruits & Vegetables","Bottle Gourd ",26.00,15.00,3,22.00,58,0,1
+899,"Fruits & Vegetables","Banana Elaichi ",58.00,15.00,3,49.00,348,0,6
+900,"Fruits & Vegetables","Coconut Big",36.00,16.00,3,30.00,58,0,1
+901,"Fruits & Vegetables","Curry Leaves",13.00,15.00,3,11.00,50,0,50
+902,"Fruits & Vegetables","Brinjal Bharta",19.00,15.00,3,16.00,58,0,1
+903,"Fruits & Vegetables","Lettuce Iceberg",25.00,16.00,3,21.00,250,0,250
+904,"Fruits & Vegetables",Papaya,54.00,16.00,3,45.00,58,0,1
+905,"Fruits & Vegetables","Apple Shimla",142.00,16.00,3,119.00,232,0,4
+906,"Fruits & Vegetables","Bitter Gourd",18.00,16.00,3,15.00,250,0,250
+907,"Fruits & Vegetables","Brinjal Small",18.00,16.00,3,15.00,250,0,250
+908,"Fruits & Vegetables","Sweet Corn",36.00,16.00,3,30.00,116,0,2
+909,"Fruits & Vegetables","Spring Onion ",18.00,16.00,3,15.00,250,0,250
+910,"Fruits & Vegetables","Bell Peppers Red & Yellow ",118.00,16.00,3,99.00,116,0,2
+911,"Fruits & Vegetables","Pomegranate ",106.00,16.00,3,89.00,116,0,2
+912,"Fruits & Vegetables","Sweet Lime",30.00,16.00,3,25.00,116,0,2
+913,"Fruits & Vegetables","Baby Potato",19.00,15.00,3,16.00,500,0,500
+914,"Fruits & Vegetables",Coccinia,32.00,15.00,3,27.00,250,0,250
+915,"Fruits & Vegetables",Guava,54.00,16.00,3,45.00,232,0,4
+916,"Fruits & Vegetables","Apple Washington",177.00,15.00,3,149.00,232,0,4
+917,"Fruits & Vegetables",Amla,32.00,15.00,3,27.00,250,0,250
+918,"Fruits & Vegetables","Beans Cluster",30.00,16.00,3,25.00,250,0,250
+919,"Fruits & Vegetables","Apple Royal Gala",189.00,15.00,3,159.00,232,0,4
+920,"Fruits & Vegetables","Chilli Bhaji",30.00,16.00,3,25.00,250,0,250
+921,"Fruits & Vegetables","Lettuce Green",23.00,17.00,3,19.00,100,0,100
+922,"Fruits & Vegetables","Baby Corn Peeled",35.00,17.00,3,29.00,250,0,250
+923,"Fruits & Vegetables","Mixed Sprouts",35.00,17.00,3,29.00,200,0,200
+924,"Fruits & Vegetables","Zucchini Green",35.00,17.00,3,29.00,250,0,250
+925,"Fruits & Vegetables","Beans Broad",42.00,16.00,3,35.00,250,0,250
+926,"Fruits & Vegetables","Raw Banana",20.00,15.00,6,17.00,500,0,500
+927,"Fruits & Vegetables","Colocasia ",29.00,17.00,6,24.00,500,0,500
+928,"Fruits & Vegetables","Tomato Cherry ",35.00,17.00,3,29.00,200,0,200
+929,"Fruits & Vegetables","Sweet Potato ",38.00,15.00,3,32.00,500,0,500
+930,"Fruits & Vegetables","Pineapple Slice",89.00,15.00,3,75.00,200,0,200
+931,"Fruits & Vegetables",Orange,54.00,16.00,3,45.00,116,0,2
+932,"Fruits & Vegetables","Dragon Fruit Imported",70.00,15.00,3,59.00,58,0,1
+933,"Fruits & Vegetables","Zucchini Yellow",42.00,16.00,3,35.00,250,0,500
+934,"Fruits & Vegetables","Apple Kinnaur",142.00,16.00,6,119.00,232,0,4
+935,"Fruits & Vegetables",Pineapple,94.00,15.00,3,79.00,58,0,1
+936,"Fruits & Vegetables",Basil,20.00,15.00,3,17.00,100,0,100
+937,"Fruits & Vegetables",Parsley,17.00,17.00,3,14.00,100,0,100
+938,"Fruits & Vegetables","Ridge Gourd",30.00,16.00,3,25.00,500,0,500
+939,"Fruits & Vegetables","Papaya Cut",46.00,15.00,3,39.00,200,0,200
+940,"Fruits & Vegetables","Pomegranate Peeled",58.00,15.00,2,49.00,100,0,100
+941,"Fruits & Vegetables","Pear Green Imported",82.00,15.00,3,69.00,116,0,2
+942,"Fruits & Vegetables","Guava Thai",70.00,15.00,3,59.00,116,0,2
+943,"Fruits & Vegetables","Lettuce Red",20.00,15.00,3,17.00,100,0,100
+944,"Fruits & Vegetables","Mango Raw",60.00,16.00,3,50.00,500,0,500
+945,"Fruits & Vegetables","Biryani /Pulav Mix",58.00,15.00,3,49.00,250,0,250
+946,"Fruits & Vegetables","Banana Nendran",54.00,16.00,6,45.00,500,0,500
+947,"Fruits & Vegetables","Pumpkin Cut",30.00,16.00,3,25.00,200,0,200
+948,"Fruits & Vegetables","Banana Red",54.00,16.00,6,45.00,500,0,500
+949,"Fruits & Vegetables","Radish White",23.00,17.00,6,19.00,500,0,500
+950,"Fruits & Vegetables","Avocado Indian Premium",177.00,15.00,3,149.00,58,0,1
+951,"Fruits & Vegetables","Banana Leaf",12.00,16.00,2,10.00,58,0,1
+952,"Fruits & Vegetables","Sponge Gourd",25.00,16.00,2,21.00,300,0,300
+953,"Fruits & Vegetables","Zama Organics Carrot",20.00,15.00,3,17.00,250,0,250
+954,"Fruits & Vegetables","Safal Frozen - Mixed Vegetables",110.00,4.00,2,105.00,1000,0,1
+955,"Fruits & Vegetables","Zama Organics Sweet Potato",37.00,16.00,3,31.00,250,0,250
+956,"Fruits & Vegetables",Beetroot,16.00,18.00,3,13.00,500,0,500
+957,"Fruits & Vegetables",Capsicum,26.00,19.00,3,21.00,500,0,500
+958,"Fruits & Vegetables",Carrot,19.00,21.00,3,15.00,500,0,500
+959,"Fruits & Vegetables",Garlic,17.00,23.00,3,13.00,200,0,200
+960,"Fruits & Vegetables",Carrot,13.00,15.00,0,11.00,250,1,200
+961,"Fruits & Vegetables",Beetroot,11.00,18.00,0,9.00,250,1,250
+962,"Fruits & Vegetables","Moong Sprouts",35.00,17.00,0,29.00,200,1,200
+963,"Fruits & Vegetables","Safal Frozen Mixed Vegetables",60.00,5.00,0,57.00,500,1,500
+964,"Fruits & Vegetables","Safal Frozen Corn",41.00,4.00,0,39.00,200,1,200
+965,"Fruits & Vegetables","Safal Frozen - Sweet Corn",160.00,5.00,0,152.00,1000,1,1
+966,"Cooking Essentials","Maggi 2 Minute Masala Noodles",12.00,0.00,6,12.00,70,0,70
+967,"Cooking Essentials","iD Idli & Dosa Batter ",80.00,15.00,6,68.00,1000,0,1
+968,"Cooking Essentials","Tata Salt",24.00,0.00,6,24.00,1000,0,1
+969,"Cooking Essentials","Arden Eggs White",97.00,0.00,4,97.00,696,0,12
+970,"Cooking Essentials","Arden Eggs White",65.00,15.00,4,55.00,348,0,6
+971,"Cooking Essentials","Fortune Sunlite Refined Sunflower (Pouch)",230.00,4.00,6,219.00,1000,0,1
+972,"Cooking Essentials","Aashirvaad Superior MP Atta",250.00,2.00,6,245.00,5000,0,5
+973,"Cooking Essentials","Amul Pure Ghee (Pouch)",255.00,2.00,6,249.00,500,0,500
+974,"Cooking Essentials","Arden Eggs Brown",85.00,7.00,4,79.00,348,0,6
+975,"Cooking Essentials","Tata Salt Lite",40.00,10.00,6,36.00,1000,0,1
+976,"Cooking Essentials","Saffola Gold Oil (Pouch)",215.00,0.00,6,215.00,1000,0,1
+977,"Cooking Essentials","Fortune Sunlite Refined Sunflower (Jar)",925.00,0.00,6,925.00,5000,0,5
+978,"Cooking Essentials","Fortune Rice Bran (Pouch)",225.00,11.00,6,199.00,1000,0,1
+979,"Cooking Essentials","Saffola Active Oil",210.00,0.00,6,210.00,1000,0,1
+980,"Cooking Essentials","Amul Pure Ghee (Pouch)",505.00,1.00,2,499.00,1000,0,1
+981,"Cooking Essentials","Aashirvaad Atta",460.00,13.00,6,399.00,10000,0,10
+982,"Cooking Essentials","Popular Essentials Toor Dal (Un-Polished)",160.00,6.00,4,149.00,1000,0,1
+983,"Cooking Essentials","Amul Ghee (Tin)",520.00,2.00,6,509.00,1000,0,1
+984,"Cooking Essentials","Amul Fresh Cream",197.00,3.00,3,191.00,1000,0,1
+985,"Cooking Essentials","Popular Essentials Pure Jaggery",50.00,2.00,6,49.00,450,0,450
+986,"Cooking Essentials","Aashirvaad Multigrain Atta",64.00,3.00,2,62.00,1000,0,1
+987,"Cooking Essentials","Fortune Soyabean Oil",1005.00,0.00,6,999.00,5000,0,5
+988,"Cooking Essentials","Popular Essentials Sunflower Seeds",25.00,0.00,6,25.00,50,0,50
+989,"Cooking Essentials","Tata Sampann kabuli chana",185.00,1.00,4,183.00,1000,0,500
+990,"Cooking Essentials","Dhara Groundnut Oil (Pouch)",230.00,11.00,6,203.00,1000,0,1
+991,"Cooking Essentials","Dhara Health Refined Sun Flower Oil Jar",1200.00,18.00,6,984.00,5000,0,5
+992,"Cooking Essentials","24 Mantra Organic Jaggery Powder",80.00,15.00,6,68.00,500,0,500
+993,"Cooking Essentials","Tata Sampann High Protien Kabuli Chana",94.00,0.00,1,94.00,500,0,500
+994,"Cooking Essentials","Dhara Kachi Ghani Mustard Oil Jar",1250.00,8.00,6,1143.00,5000,0,5
+995,"Cooking Essentials","D'lecta Dairy Cream",54.00,5.00,6,51.00,200,0,200
+996,"Cooking Essentials","Ching's Secret Instant Hot Garlic Noodles",15.00,0.00,3,15.00,60,0,60
+997,"Cooking Essentials","Dabur Ginger Garlic Paste",25.00,8.00,3,23.00,100,0,100
+998,"Cooking Essentials","Ching's Secret Instant Schezwan Noodles",15.00,0.00,6,15.00,60,0,60
+999,"Cooking Essentials","Gowardhan Ghee/Tuppa Jar",315.00,1.00,6,309.00,500,0,500
+1000,"Cooking Essentials","Tata Sampann Unpolished Moong Dal ",92.00,4.00,4,88.00,500,0,500
