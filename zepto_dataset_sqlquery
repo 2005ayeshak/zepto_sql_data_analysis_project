@@ -1,0 +1,233 @@
+CREATE DATABASE zepto_project_sql;
+USE zepto_project_sql;
+CREATE TABLE zepto (
+  sku_id INT AUTO_INCREMENT PRIMARY KEY,
+  category VARCHAR(120),
+  name VARCHAR(150) NOT NULL,
+  mrp DECIMAL(8,2),
+  discountPercent DECIMAL(5,2),
+  availableQuantity INT,
+  discountedSellingPrice DECIMAL(8,2),
+  weightInGms INT,
+  outOfStock BOOLEAN,
+  quantity INT
+);
+-- insert rows
+SELECT COUNT(*) FROM zepto;
+SELECT * FROM zepto;
+   INSERT INTO zepto
+(category,name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity)
+VALUES
+('Rice','India Gate Basmati Rice',1255,14.02,10,1079,5000,0,1),
+('Rice','Daawat Rozana Rice',100,16,25,84,1000,0,1),
+('Rice','Sona Masoori Rice',470,26.8,12,344,5000,0,1),
+('Rice','Kolam Rice',555,22.1,14,432,5000,0,1),
+('Rice','Brown Rice',200,10,20,180,1000,0,1),
+('Snacks','Lays Chips',20,10,50,18,50,0,1),
+('Snacks','Kurkure',20,5,60,19,50,0,1),
+('Snacks','Bingo Chips',25,12,40,22,60,0,1),
+('Snacks','Haldiram Bhujia',50,8,30,46,200,0,1),
+('Snacks','Popcorn Pack',30,15,35,25,100,1,1),
+('Beverages','Coca Cola',40,5,30,38,250,0,1),
+('Beverages','Pepsi',40,5,25,38,250,0,1),
+('Beverages','Sprite',45,10,20,40,300,0,1),
+('Beverages','Fanta',45,8,22,41,300,0,1),
+('Beverages','Maaza',50,6,18,47,300,1,1),
+('Dairy','Milk 1L',60,0,20,60,1000,0,1),
+('Dairy','Curd 500g',40,5,15,38,500,0,1),
+('Dairy','Butter 200g',120,10,10,108,200,0,1),
+('Dairy','Cheese Slices',150,12,12,132,250,0,1),
+('Dairy','Paneer 200g',80,5,18,76,200,0,1),
+('Fruits','Apple',120,10,40,108,1000,0,1),
+('Fruits','Banana',50,5,60,48,1000,0,1),
+('Fruits','Orange',80,8,35,74,1000,0,1),
+('Fruits','Mango',150,12,20,132,1000,1,1),
+('Fruits','Grapes',90,6,25,85,1000,0,1),
+('Vegetables','Tomato',40,10,50,36,1000,0,1),
+('Vegetables','Potato',30,5,60,28,1000,0,1),
+('Vegetables','Onion',35,6,55,33,1000,0,1),
+('Vegetables','Carrot',45,8,40,41,1000,0,1),
+('Vegetables','Beans',60,10,30,54,1000,1,1),
+('Bakery','Bread',40,5,20,38,400,0,1),
+('Bakery','Buns',30,10,25,27,300,0,1),
+('Bakery','Cake',300,15,10,255,500,0,1),
+('Bakery','Cookies',150,12,15,132,250,0,1),
+('Bakery','Rusk',100,8,18,92,300,0,1),
+('Personal Care','Shampoo',250,20,10,200,500,0,1),
+('Personal Care','Soap',50,10,40,45,100,0,1),
+('Personal Care','Toothpaste',120,15,30,102,200,0,1),
+('Personal Care','Face Wash',180,18,20,148,150,0,1),
+('Personal Care','Hair Oil',200,12,15,176,300,1,1),
+('Cleaning','Detergent Powder',300,20,25,240,1000,0,1),
+('Cleaning','Dishwash Liquid',150,10,20,135,500,0,1),
+('Cleaning','Floor Cleaner',200,15,18,170,1000,0,1),
+('Cleaning','Toilet Cleaner',120,12,22,105,500,0,1),
+('Cleaning','Glass Cleaner',180,10,15,162,500,0,1),
+('Beverages','Cold Coffee',90,8,25,83,250,0,1),
+('Beverages','Green Tea',150,10,20,135,100,0,1),
+('Beverages','Black Coffee',100,5,18,95,200,0,1),
+('Snacks','Nuts Mix',200,15,10,170,300,0,1),
+('Snacks','Popcorn Salted',60,5,30,57,100,0,1),
+('Snacks','Corn Flakes',120,10,25,108,500,0,1);
+INSERT INTO zepto
+(category,name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity)
+VALUES
+('Rice','India Gate Basmati Rice',1255,14.02,10,1079,5000,0,1),
+('Rice','Daawat Rozana Rice',100,16,25,84,1000,0,1),
+('Rice','Sona Masoori Rice',470,26.8,12,344,5000,0,1),
+('Rice','Kolam Rice',555,22.1,14,432,5000,0,1),
+('Rice','Brown Rice',200,10,20,180,1000,0,1),
+('Snacks','Lays Chips',20,10,50,18,50,0,1),
+('Snacks','Kurkure',20,5,60,19,50,0,1),
+('Snacks','Bingo Chips',25,12,40,22,60,0,1),
+('Snacks','Haldiram Bhujia',50,8,30,46,200,0,1),
+('Snacks','Popcorn Pack',30,15,35,25,100,1,1),
+('Beverages','Coca Cola',40,5,30,38,250,0,1),
+('Beverages','Pepsi',40,5,25,38,250,0,1),
+('Beverages','Sprite',45,10,20,40,300,0,1),
+('Beverages','Fanta',45,8,22,41,300,0,1),
+('Beverages','Maaza',50,6,18,47,300,1,1),
+('Dairy','Milk 1L',60,0,20,60,1000,0,1),
+('Dairy','Curd 500g',40,5,15,38,500,0,1),
+('Dairy','Butter 200g',120,10,10,108,200,0,1),
+('Dairy','Cheese Slices',150,12,12,132,250,0,1),
+('Dairy','Paneer 200g',80,5,18,76,200,0,1),
+('Fruits','Apple',120,10,40,108,1000,0,1),
+('Fruits','Banana',50,5,60,48,1000,0,1),
+('Fruits','Orange',80,8,35,74,1000,0,1),
+('Fruits','Mango',150,12,20,132,1000,1,1),
+('Fruits','Grapes',90,6,25,85,1000,0,1),
+('Vegetables','Tomato',40,10,50,36,1000,0,1),
+('Vegetables','Potato',30,5,60,28,1000,0,1),
+('Vegetables','Onion',35,6,55,33,1000,0,1),
+('Vegetables','Carrot',45,8,40,41,1000,0,1),
+('Vegetables','Beans',60,10,30,54,1000,1,1),
+('Bakery','Bread',40,5,20,38,400,0,1),
+('Bakery','Buns',30,10,25,27,300,0,1),
+('Bakery','Cake',300,15,10,255,500,0,1),
+('Bakery','Cookies',150,12,15,132,250,0,1),
+('Bakery','Rusk',100,8,18,92,300,0,1),
+('Personal Care','Shampoo',250,20,10,200,500,0,1),
+('Personal Care','Soap',50,10,40,45,100,0,1),
+('Personal Care','Toothpaste',120,15,30,102,200,0,1),
+('Personal Care','Face Wash',180,18,20,148,150,0,1),
+('Personal Care','Hair Oil',200,12,15,176,300,1,1),
+('Cleaning','Detergent Powder',300,20,25,240,1000,0,1),
+('Cleaning','Dishwash Liquid',150,10,20,135,500,0,1),
+('Cleaning','Floor Cleaner',200,15,18,170,1000,0,1),
+('Cleaning','Toilet Cleaner',120,12,22,105,500,0,1),
+('Cleaning','Glass Cleaner',180,10,15,162,500,0,1),
+('Beverages','Cold Coffee',90,8,25,83,250,0,1),
+('Beverages','Green Tea',150,10,20,135,100,0,1),
+('Beverages','Black Coffee',100,5,18,95,200,0,1),
+('Snacks','Nuts Mix',200,15,10,170,300,0,1),
+('Snacks','Popcorn Salted',60,5,30,57,100,0,1),
+('Snacks','Corn Flakes',120,10,25,108,500,0,1);
+
+-- data exploration
+select * from zepto
+limit 10;
+
+-- null values
+SELECT * FROM zepto
+WHERE name IS NULL
+OR
+category IS NULL
+OR
+mrp IS NULL
+OR
+discountPercent IS NULL
+OR
+discountedSellingPrice IS NULL
+OR
+weightInGms IS NULL
+OR
+availableQuantity IS NULL
+OR
+outOfStock IS NULL
+OR
+quantity IS NULL;
+-- different product categories
+SELECT DISTINCT category
+FROM zepto
+ORDER BY category;
+-- count of outofstock
+SELECT outOfStock, COUNT(sku_id)
+FROM zepto
+GROUP BY outOfStock;
+
+-- product names present multiple times
+SELECT name, COUNT(sku_id) AS "Number of SKUs"
+FROM zepto
+GROUP BY name
+HAVING count(sku_id) > 1
+ORDER BY count(sku_id) DESC;
+-- products with price = 0
+SELECT * FROM zepto
+WHERE mrp = 0 OR discountedSellingPrice = 0;
+DELETE FROM zepto
+WHERE mrp = 0;
+
+-- convert paise to rupees
+SET SQL_SAFE_UPDATES = 0;
+
+UPDATE zepto
+SET mrp = mrp / 100.0,
+discountedSellingPrice = discountedSellingPrice / 100.0;
+
+SELECT mrp, discountedSellingPrice FROM zepto;
+
+-- data analysis
+
+-- Q1. Find the top 10 best-value products based on the discount percentage.
+select * from zepto;
+SELECT DISTINCT name, mrp, discountPercent
+FROM zepto
+ORDER BY discountPercent DESC
+LIMIT 10;
+-- Q2.What are the Products with High MRP but Out of Stock
+
+
+-- Q3.Calculate Estimated Revenue for each category
+SELECT category,
+SUM(discountedSellingPrice * availableQuantity) AS total_revenue
+FROM zepto
+GROUP BY category
+ORDER BY total_revenue;
+
+-- Q4. Find all products where MRP is greater than ₹500 and discount is less than 10%.
+SELECT DISTINCT name, mrp, discountPercent
+FROM zepto
+WHERE mrp > 500 AND discountPercent < 10
+ORDER BY mrp DESC, discountPercent DESC;
+
+-- Q5. Identify the top 5 categories offering the highest average discount percentage.
+SELECT category,
+ROUND(AVG(discountPercent),2) AS avg_discount
+FROM zepto
+GROUP BY category
+ORDER BY avg_discount DESC
+LIMIT 5;
+
+-- Q6. Find the price per gram for products above 100g and sort by best value.
+SELECT DISTINCT name, weightInGms, discountedSellingPrice,
+ROUND(discountedSellingPrice/weightInGms,2) AS price_per_gram
+FROM zepto
+WHERE weightInGms >= 100
+ORDER BY price_per_gram;
+
+-- Q7.Group the products into categories like Low, Medium, Bulk.
+SELECT DISTINCT name, weightInGms,
+CASE WHEN weightInGms < 1000 THEN 'Low'
+	WHEN weightInGms < 5000 THEN 'Medium'
+	ELSE 'Bulk'
+	END AS weight_category
+FROM zepto;
+
+-- Q8.What is the Total Inventory Weight Per Category 
+SELECT category,
+SUM(weightInGms * availableQuantity) AS total_weight
+FROM zepto
+GROUP BY category
+ORDER BY total_weight;
+
